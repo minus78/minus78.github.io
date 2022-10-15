@@ -1,0 +1,15 @@
+---
+layout: default
+---
+
+{{ content }}
+<br>
+<hr>
+<blockquote>
+    Catégorie: 
+    {% for category in page.categories %}
+        <span class="label"> {{ category }}</span>
+    {% endfor %}
+    <br>
+    {{ page.date }} - Ecrit par {{ page.author | default: "Tokenise" }}
+</blockquote>

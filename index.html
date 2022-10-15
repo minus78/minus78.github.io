@@ -1,0 +1,32 @@
+---
+layout: default
+---
+
+<div class="callout primary">
+    <i><b>tokenise.fr</b></i> a pour but de parler de l'ensemble des actifs du monde réél qui sont tokenisé, de façon vulgarisé que ce soit sur Ethereum, Polygon ou
+    par exemple Gnosis Chain.
+    <br><b>Ce site ne contient aucun conseil en investissement, il faut faire vos propres recherches. Les articles ne sont que mon propre opinion.</b>
+</div>
+
+<h2>Liste des articles</h2>
+{%- assign date_format = site.minima.date_format | default: "%-d %B %Y" -%}
+{% for post in paginator.posts %}
+<h3><a href="{{ post.url }}">{{ post.title }}</a> <small>{{ post.date | date: date_format }}</small></h3>
+{% endfor %}
+
+<!-- Pagination links -->
+<nav aria-label="Pagination">
+    <ul class="pagination">
+        {% if paginator.previous_page %}
+            <li class="pagination-previous"><a href="{{ paginator.previous_page_path }}">Précedent <span class="show-for-sr">page</span></a></li>
+        {% else %}
+            <li class="pagination-previous disabled">Précedent <span class="show-for-sr">page</span></li>
+        {% endif %}
+        <li>Page: {{ paginator.page }} sur {{ paginator.total_pages }}</li>
+        {% if paginator.next_page %}
+            <li class="pagination-next"><a href="{{ paginator.next_page_path }}" aria-label="Next page">Suivant <span class="show-for-sr">page</span></a></li>
+        {% else %}
+            <li class="pagination-next disabled"> Suivant <span class="show-for-sr">page</span></li>
+        {% endif %}
+    </ul>
+</nav>
