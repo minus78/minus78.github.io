@@ -28,6 +28,16 @@ twitter_username: jekyllrb
 github_username:  jekyll
 paginate: 5
 paginate_path: "/blog/page-:num/"
+lsi: false
+safe: true
+incremental: false
+highlighter: rouge
+source: minus78.github.io
+gist:
+  noscript: false
+kramdown:
+  math_engine: mathjax
+  syntax_highlighter: rouge
 
 # Build settings
 theme: minima
