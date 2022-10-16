@@ -8,7 +8,7 @@ categories: Minage
 
 ## Description
 
-**Clean Sat Mining** est une société qui veut par un token de permettre d'investir dans le minage de bitcoin (par le biais d'une propriété fractionnée). Ils veulent être la première entreprise proposant des conteneurs de minage tokenisé entièrement alimenté par des sources d'énergie renouvelables.
+**Clean Sat Mining** est une société qui veut via un token permettre d'investir dans le minage de bitcoin (par le biais d'une propriété fractionnée). Ils veulent être la première entreprise proposant des conteneurs de minage tokenisé entièrement alimenté par des sources d'énergie renouvelables.
 
 Dans ce projet, il y a des gens connu dans le milieu:
 - Jean Marc Jacobson et Rémy Jacobson, créateur de [RealT](https://tokenise.fr/immobilier/2022/10/16/RealT.html)
