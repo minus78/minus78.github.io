@@ -4,7 +4,7 @@ title:  "Qu'est ce que RealT?"
 date:   2022-10-16
 categories: Immobilier Ethereum Gnosis
 ---
-<img src="/img/RealT.png" align="right" class="show-for-medium" style="height:150px; margin-right: 10px" />
+<img src="/img/RealT.png" align="right" class="hide-on-small-only" style="height:150px; margin-right: 10px" />
 
 ## Description
 **RealT** est un site qui propose de l'immobilier fractionné et tokenisé au US (et bientôt hors US). RealT a été créé par les frères Jacobson (Jean-Marc et Rémy) en 2019. Le but des 2 frères est de rendre l'immobillier liquide. Les biens sont tokenisés via une entreprise soit une LLC ou une INC. Les tokens émis pour chaque bien représente une action et les loyers sont des dividendes de cet entreprise. Les loyers sont payés chaque lundi en USDC. RealT est sur Ethereum ainsi que sur Gnosis Chain. Le ticket minimum est de **50$** environ pour des rendements d'environ 8 à 11% actuellement (**les rendements ne sont pas garanties**).
@@ -34,7 +34,9 @@ categories: Immobilier Ethereum Gnosis
 - [Dashboard Communautaire](https://dashboard.realt.community/)
 - [Chaine Youtube de RealT](https://www.youtube.com/channel/UCIUnPBs55STUL16VDQOHBWg)
 
-
-<img src="/img/RealT_website.png" />
-
+<div class="row">
+    <div class="col s12" style="text-align: center;">
+            <img src="/img/RealT_website.png" style="max-width: 100%;" />
+    </div>
+</div>
 

@@ -8,8 +8,8 @@ layout: default
 <blockquote>
     Catégorie: 
     {% for category in page.categories %}
-        <span class="label"> {{ category }}</span>
+        <span class="blue-text">{{ category }}&nbsp;</span>
     {% endfor %}
     <br>
-    {{ page.date }} - Ecrit par {{ page.author | default: "Tokenise" }}
+        {{ page.date }} - Ecrit par <span class="blue-text">{{ page.author | default: "Tokenise" }}</span>
 </blockquote>
