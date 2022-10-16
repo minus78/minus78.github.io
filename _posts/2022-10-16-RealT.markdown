@@ -13,7 +13,7 @@ categories: Immobilier Ethereum Gnosis
 - Le [RMM](https://rmm.realtoken.network/) qui permet de mettre en collatéral ses tokens et faire des emprunts (hypothèque)
 - Le marché secondaire qui utilise SwapCat qui permet de vendre ou d'acheter des tokens. Une sorte de *Bon coin* des tokens RealT. Il est fortement conseillé de passer par le [Dashboard communautaire](https://dashboard.realt.community/) pour acheter ces tokens (**ça évite les arnaques!**)
 - [Levinswap](https://levinswap.realt.community/) qui permet de vendre ou d'acheter ses tokens grâce à des pools de liquidité (actuellement il y a peu de liquidité)
-- l'équipe fait régulièrment des lives sur Youtube en Français, et la communauté peut poser facilement des questions (c'est en plus du Discord et Telegram)
+- L'équipe fait régulièrment des lives sur Youtube en Français, et la communauté peut poser facilement des questions (c'est en plus du Discord et Telegram)
 
 ## Les inconvénients
 - Pour le moment beaucoup de bien à Détroit mais peu ailleurs (problème de diversification)
@@ -27,6 +27,7 @@ categories: Immobilier Ethereum Gnosis
 | **Minimum par part** | environ 50$ |
 | **Rendement** | environ 10% |
 | **Fréquence du loyer** | une fois par semaine |
+
 
 ## Lien utile
 - [Site web de RealT](https://realt.co/ref/jujucryptofr/?campaign=tokenise)
