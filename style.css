@@ -42,3 +42,11 @@ div .contenu
 {
     font-size: 20px;
 }
+
+div .contenu blockquote
+{
+    background-color: #fad4d6;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 10px;
+}

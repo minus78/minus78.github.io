@@ -13,7 +13,11 @@ Il semble qu'on serait propriétaire d'une action d'entreprise et cet entreprise
 
 <div class="row">
     <div class="col m6 offset-m3 s12">
-            <blockquote class="twitter-tweet" data-conversation="none"><p lang="fr" dir="ltr">Bonjour, l’idée est d’être propriétaire d’actions de société via un NFT, et la société est propriétaire du bien :-)</p>&mdash; Laurent Mayer (@LaurentMayer007) <a href="https://twitter.com/LaurentMayer007/status/1571465970333491200?ref_src=twsrc%5Etfw">September 18, 2022</a></blockquote>
+            <blockquote>
+            Bonjour, l’idée est d’être propriétaire d’actions de société via un NFT, et la société est propriétaire du bien :-)
+            <br>
+            &mdash; Laurent Mayer (@LaurentMayer007)
+            <a href="https://twitter.com/LaurentMayer007/status/1571465970333491200?ref_src=twsrc%5Etfw">September 18, 2022</a></blockquote>
     </div>
 </div>
 
