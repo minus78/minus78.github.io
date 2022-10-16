@@ -23,7 +23,7 @@ email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   Tokenisation de l'immobilier, action tokenisé
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://tokenise.fr" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://tokenise.fr" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
 paginate: 5
@@ -32,7 +32,7 @@ lsi: false
 safe: true
 incremental: false
 highlighter: rouge
-source: minus78.github.io
+#source: minus78.github.io
 gist:
   noscript: false
 kramdown:
