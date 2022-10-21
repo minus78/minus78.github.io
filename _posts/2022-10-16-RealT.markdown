@@ -7,10 +7,26 @@ categories: Immobilier
 <img src="/img/RealT.png" align="right" class="hide-on-small-only" style="height:150px; margin-right: 10px" />
 
 ## Description
-**RealT** est un site qui propose de l'immobilier fractionné et tokenisé au US (et bientôt hors US). RealT a été créé par les frères Jacobson (Jean-Marc et Rémy) en 2019. Le but des 2 frères est de rendre l'immobillier liquide. Les biens sont tokenisés via une entreprise soit une LLC ou une INC. Les tokens émis pour chaque bien représente une action et les loyers sont des dividendes de cet entreprise. Les loyers sont payés chaque lundi en USDC. RealT est sur Ethereum ainsi que sur Gnosis Chain. Le ticket minimum est de **50$** environ pour des rendements d'environ 8 à 11% actuellement (**les rendements ne sont pas garanties**).
+**RealT** est un site qui propose de l'immobilier fractionné et tokenisé au US (et bientôt hors US). RealT a été créé par les frères Jacobson (Jean-Marc et Rémy) en 2019. Le but des 2 frères est de rendre l'immobillier liquide. Les biens sont tokenisés via une entreprise soit une LLC ou une INC. Les tokens émis pour chaque bien représente une action et les loyers sont des dividendes de cet entreprise. 
+
+<div class="row">
+    <div class="col s12" style="text-align: center;">
+            <img src="/img/realt_LLC.png" class="responsive-img" />
+    </div>
+</div>
+
+Les loyers sont payés chaque lundi en USDC. RealT est sur Ethereum ainsi que sur Gnosis Chain. Le ticket minimum est de **50$** environ pour des rendements d'environ 8 à 11% actuellement (**les rendements ne sont pas garanties**).
+Les biens sont réévalués 1 fois par ans. Lors de cette réévaluation les tokens peuvent prendre de la valeur ou en perdre suivant la réévaluation. Dans mon cas l'ensemble de mes tokens acquis ont pris de la valeur.
 
 ## Les avantages de RealT
-- Le [RMM](https://rmm.realtoken.network/) qui permet de mettre en collatéral ses tokens et faire des emprunts (hypothèque)
+- Le [RMM](https://rmm.realtoken.network/) qui permet de mettre en collatéral ses tokens et faire des emprunts (sorte d'hypothèque), actuellement basé sur [AAVE V2](https://aave.com)
+
+<div class="row">
+    <div class="col s12" style="text-align: center;">
+            <img src="/img/rmm.png" class="responsive-img" />
+    </div>
+</div>
+
 - Le marché secondaire qui utilise SwapCat qui permet de vendre ou d'acheter des tokens. Une sorte de *Bon coin* des tokens RealT. Il est fortement conseillé de passer par le [Dashboard communautaire](https://dashboard.realt.community/) pour acheter ces tokens (**ça évite les arnaques!**)
 - [Levinswap](https://levinswap.realt.community/) qui permet de vendre ou d'acheter ses tokens grâce à des pools de liquidité (actuellement il y a peu de liquidité)
 - L'équipe fait régulièrment des lives sur Youtube en Français, et la communauté peut poser facilement des questions (c'est en plus du Discord et Telegram)
@@ -18,6 +34,70 @@ categories: Immobilier
 ## Les inconvénients
 - Pour le moment beaucoup de bien à Détroit mais peu ailleurs (problème de diversification)
 - Pas beaucoup de diversification dans le type de bien, pas de biens commerciaux par exemple, etc
+
+## RealT dans le futur
+- RealT essaye de ce lancer en **Europe** et au **Panama**. La tokenisation en Europe sera différentes qu'au US, on a pas plus de détail actuellement
+- Passage du RMM de AAVE V2 vers AAVE V3
+- YAM (You and Me) qui devrait remplacer ou être en parallèle de SwapCat
+- Une DAO/Gouvernance avec comme token le REG (prévision fin 2023, à prendre avec des pincettes). Au moment de la 1er réévaluation des biens (donc au bout de 1 an), on reçoit des SOON tokens qui seront dans le futur convertie en REG token. Pour le moment, les contours de cette DAO sont très flous. C'est REG pour Real Estate Gouvernance.
+- RealT voudrait se lancer dans la tokenisation des actifs agricoles au alentour de 2023!?!? [AGRA Presse](https://www.agra.fr/agra-presse/blockchain-et-agriculture-une-lente-hybridation)
+
+<div class="row">
+    <div class="col s12" style="text-align: center;">
+            <img src="/img/RealT_agri.jpeg" class="responsive-img" />
+    </div>
+</div>
+
+## Mon avis
+
+RealT est un acteur sérieux, pionnier dans la tokénisation immobilier, et la tokenisation fractionné. J'ai investie dès 2019 chez eux, avec Marlowe, avec actuellement en 2022, avec plus de 200 biens différents sur Détroit surtout, mais aussi un peu à Toledo, Floride et Chicago. Il y a peu de vacances locatives.
+
+Il y a eu un incident, un incendie dans la propriété Fullerton le 28 août 2020, qui a pas fait de victime, RealT a bien géré ça. Les tokens holder ont été prévenu, ils ont fait le necessaire pour les travaux et les assurances. Il y a eu une baisse de loyer (ce qui est normale), et ainsi qu'une baisse de la valeur des tokens au prorata des appartements invivables, le temps que les travaux soient fait, ensuite c'est revenu dans l'ordre.
+
+Extrait de l'email reçu de RealT à l'époque:
+
+<blockquote>
+Bonsoir à toutes et tous,
+<br>
+<br>
+Comme vous le savez peut-être, un bâtiment habité présente sa part de problèmes, et l'un d'entre eux pourrait être un incendie. Malheureusement, un incendie s'est produit vendredi soir, 28 août, dans l'un des appartements situés au 16200 Fullerton. Heureusement, personne n'est blessé et tous les locataires sont sains et saufs.
+<br>
+<br>
+Selon les premières informations des pompiers, le début de l'incendie était dû à une cigarette. Deux autres appartements ont également subi d'importants dégâts d'eau suite à l'intervention des pompiers.
+<br>
+<br>
+Suite à cet incendie, la ville a ordonnée l'évacuation du bâtiment afin que nous puissions nous assurer que sa structure est saine. Nous espérons pouvoir rouvrir les portes à nos locataires d'ici quelques jours ; la plupart des locataires ont hâte de rentrer chez eux, et plus de 60% d'entre eux expriment leur désir d'être chez eux le plus tôt possible.
+<br>
+<br>
+RealT a immédiatement pris l’affaire en main, demandant aux entreprises concernées de commencer le désencombrement et le nettoyage. RealT a payé ces frais à l'avance afin de ne pas perdre de temps sur la restauration des unités endommagées. Cette restauration coûterait entre 100 000 et 150 000 dollars américains. Notre compagnie d'assurance a déjà donné un préavis, qui devrait couvrir les coûts de toutes les réparations.
+<br>
+<br>
+Enfin, les loyers sont maintenus à 100% jusqu'au 3 septembre (prochaine échéance de paiement). Nous n’avons pas encore d’informations de la part de l’assurance sur ce point pour le moment, mais il est nécessaire de prévoir un loyer partiel lors de la réhabilitation complète du bâtiment, qui devrait prendre deux à trois mois. Nous ferons un suivi au cours de la semaine pour vous tenir au courant à mesure que nous recevrons des chiffres plus précis.
+<br>
+<br>
+Dans tout malheur, il y a aussi une opportunité ! L'incendie n'a causé que des dommages localisés et superficiels, de sorte que la restauration peut avoir lieu rapidement. Les efforts des pompiers afin d’éteindre le feu ont également endommagé l'intérieur du bâtiment, principalement les parties communes, ce qui présente une opportunité de remettre ces zones à un niveau supérieur de leur état initial. Les systèmes électriques et de climatisation feront également l'objet d'une révision et le toit sera probablement partiellement ou entièrement rénové. Tous ces travaux, ainsi que la rénovation des 3 appartements concernés, permettront à l'immeuble de prendre de la valeur une fois les travaux terminés. Faites-le savoir à ceux qui sont nouveaux dans le secteur de l'immobilier : c'est pourquoi vous avez une assurance. Les pertes deviennent des opportunités !
+<br>
+<br>
+Le prix symbolique de Fullerton doit être ajusté pour refléter la réalité. Les coûts estimatifs de rénovation sont d'environ 125 000 $, ce qui signifie que l'état actuel de la propriété vaut 125 000 $ de moins. Le prix du jeton pour l'achat et la vente sur le site Web de RealT sera réduit pour refléter ce changement. Une fois les rénovations de la propriété terminées, le prix symbolique sera réajusté pour tenir compte des rénovations améliorées.
+<br>
+<br>
+Nous sommes sincèrement convaincus que ce malheur et la rénovation qui l'accompagne renforceront notre collaboration.
+<br>
+<br>
+Toute l'équipe est disponible pour répondre à toutes vos questions.
+<br>
+<br>
+RealT
+</blockquote>
+
+<div class="row">
+    <div class="col s12" style="text-align: center;">
+            <img src="/img/Fullerton.jpg" class="responsive-img" />
+            <img src="/img/FullertonIncendie.jpg" class="responsive-img" />
+    </div>
+</div>
+
+Pour conclure, je suis très satisfait de mon investissement dans RealT, ça permet de contrebalancer la volatilité des cryptomonnaies "classiques".
 
 ## Recapitulatif
 
