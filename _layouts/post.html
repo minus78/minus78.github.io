@@ -7,10 +7,16 @@ layout: default
 <br>
 <hr>
 <blockquote>
-    Catégorie: 
-    {% for category in page.categories %}
-        <span class="blue-text">{{ category }}&nbsp;</span>
-    {% endfor %}
-    <br>
-        {{ page.date }} - Ecrit par <span class="blue-text">{{ page.author | default: "Tokenise" }}</span>
+    <ul>
+        <li>Catégorie: 
+        {% for category in page.categories %}
+            <span class="blue-text">{{ category }}&nbsp;</span>
+        {% endfor %}
+        </li>
+        <li>Créé le <span class="blue-text">{{ page.date }}</span></li>
+        {% if page.last_modified_at %}
+            <li>Dernière modification le <span class="blue-text">{{ page.last_modified_at }}</span></li>
+        {% endif %}
+        <li>Ecrit par <span class="blue-text">{{ page.author | default: "Tokenise" }}</span></li>
+    </ul>
 </blockquote>
