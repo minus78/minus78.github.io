@@ -21,6 +21,15 @@ Il semble qu'on serait propriétaire d'une action d'entreprise et cette entrepri
     </div>
 </div>
 
+<div class="row">
+    <div class="col m6 offset-m3 s12">
+        <blockquote>
+        Une société va détenir de l’immobilier, et nous allons céder les actions de la société, via des NFT.<br>
+        En d’autres terme un holder de NFT <a href="https://twitter.com/KryptoStone_io?ref_src=twsrc%5Etfw">@KryptoStone_io</a> sera actionnaire (« co-Proprietaire ») d’une société qui est propriétaire d’un ou plusieurs biens immobiliers<br>
+        &mdash; Laurent Mayer (@LaurentMayer007) <a href="https://twitter.com/LaurentMayer007/status/1583721935804174336?ref_src=twsrc%5Etfw">October 22, 2022</a>
+        </blockquote>
+    </div>
+</div>        
 
 Pour le moment, KryptoStone n'a pas vendu de bien, on en sait pas beaucoup plus sur le projet.
 
