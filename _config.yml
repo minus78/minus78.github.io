@@ -33,6 +33,7 @@ safe: true
 incremental: false
 highlighter: rouge
 #source: minus78.github.io
+permalink: /:categories/:title:output_ext
 gist:
   noscript: false
 kramdown:
@@ -45,6 +46,7 @@ plugins:
   - jekyll-feed
   - jekyll-paginate
   - jekyll-sitemap
+  - jekyll-last-modified-at
 
 # Exclude from processing.
 # The following items will not be processed, by default.
