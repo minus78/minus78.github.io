@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  "Qu'est ce que RealT?"
-date:   2022-10-16
 categories: Immobilier
 ---
 <img src="/img/RealT.png" align="right" class="hide-on-small-only" style="height:150px; margin-right: 10px" />
