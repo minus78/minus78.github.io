@@ -1,0 +1,8 @@
+
+.icon-home:before { content: '\e800'; } /* '' */
+.icon-comment:before { content: '\e801'; } /* '' */
+.icon-attention:before { content: '\e802'; } /* '' */
+.icon-twitter:before { content: '\f099'; } /* '' */
+.icon-dollar:before { content: '\f155'; } /* '' */
+.icon-thumbs-up-alt:before { content: '\f164'; } /* '' */
+.icon-thumbs-down-alt:before { content: '\f165'; } /* '' */
