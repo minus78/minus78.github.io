@@ -16,10 +16,10 @@ title: "La tokenisation"
 </div>
 
 
-<h2>Liste des articles</h2>
+<h2><i class="fa-solid fa-book"></i> Liste des articles</h2>
 {%- assign date_format = site.minima.date_format | default: "%-d %B %Y" -%}
 {% for post in paginator.posts %}
-<h3><a href="{{ post.url }}">{{ post.title }}</a> <small class="hide-on-small-only">{{ post.date | date: date_format }}</small></h3>
+    <h4><a href="{{ post.url }}">{{ post.title }}</a> <small class="hide-on-small-only">{{ post.date | date: date_format }}</small></h4>
 {% endfor %}
 
 <!-- Pagination links -->
