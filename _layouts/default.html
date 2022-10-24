@@ -16,6 +16,16 @@
         <meta property="og:title" content="{{ page.title }}" />
         <meta property="og:description" content="{% if page.description %}{{ page.description }}{% else %}Site sur la tokenisation{% endif %}" />
         <meta property="og:image" content="{{ site.url}}/img/tokenise_fr.jpg" />
+
+        <!-- Twitter Card -->
+        <meta name="twitter:card" content="summary_large_image" />
+        <meta name="twitter:site" content="@tokeniseFR" />
+        <meta name="twitter:title" content="{{ page.title }}" />
+        <meta name="twitter:description" content="{% if page.description %}{{ page.description }}{% else %}Site sur la tokenisation{% endif %}" />
+        <meta name="twitter:image" content="{{ site.url}}/img/tokenise_fr.jpg" />
+        <meta name="twitter:url" content="{{ site.url }}{{ page.url }}" />
+
+
     </head>
     <body>
         <!-- navbar -->
