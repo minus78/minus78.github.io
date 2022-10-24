@@ -13,8 +13,8 @@ categories: Minage
 **Clean Sat Mining** est une société qui veut via un token permettre d'investir dans le minage de bitcoin (par le biais d'une propriété fractionnée). Ils veulent être la première entreprise proposant des conteneurs de minage tokenisé entièrement alimenté par des sources d'énergie renouvelables.
 
 Dans ce projet, il y a des gens connu dans le milieu:
-- Jean Marc Jacobson et Rémy Jacobson, créateur de [RealT](https://tokenise.fr/immobilier/2022/10/16/RealT.html)
-- Michael Courvoisier, COO de [RealT](https://tokenise.fr/immobilier/2022/10/16/RealT.html)
+- Jean Marc Jacobson et Rémy Jacobson, créateur de [RealT](https://tokenise.fr/immobilier/RealT.html)
+- Michael Courvoisier, COO de [RealT](https://tokenise.fr/immobilier/RealT.html)
 - Sébastien Gouspillou qui travaille dans l'industrie du minage du Bitcoin, CEO de Big Block Datacenter et BBGS ([Twitter](https://twitter.com/SebGouspillou))
 - Richard Détente et Guillaume Goualard qui sont fondateur de Grand Angle Crypto, chaine Youtube d'analyse sur les cryptos ([Twitter](https://twitter.com/GA_Crypto_))
 
