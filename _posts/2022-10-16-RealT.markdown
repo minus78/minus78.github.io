@@ -40,7 +40,16 @@ Les biens sont réévalués 1 fois par ans. Lors de cette réévaluation les tok
 - RealT essaye de ce lancer en **Europe** et au **Panama**. La tokenisation en Europe sera différentes qu'au US, on a pas plus de détail actuellement
 - Passage du RMM de AAVE V2 vers AAVE V3
 - YAM (You and Me) qui devrait remplacer ou être en parallèle de SwapCat
-- Une DAO/Gouvernance avec comme token le REG (prévision fin 2023, à prendre avec des pincettes). Au moment de la 1er réévaluation des biens (donc au bout de 1 an), on reçoit des SOON tokens qui seront dans le futur convertie en REG token. Pour le moment, les contours de cette DAO sont très flous. C'est REG pour Real Estate Gouvernance.
+- Une DAO/Gouvernance avec comme token le REG (prévision fin 2023, à prendre avec des pincettes). Au moment de la 1er réévaluation des biens (donc au bout de 1 an), on reçoit des SOON tokens qui seront dans le futur convertie en REG token. Pour le moment, les contours de cette DAO sont très flous. On nomme les tokens REG pour Real Estate Gouvernance.
+Les SOON/REG sont distribués de la façon suivante:
+
+<div class="row">
+    <div class="col s12" style="text-align: center;">
+            <img src="/img/SOON.jpeg" class="responsive-img" />
+    </div>
+</div>
+
+
 - RealT voudrait se lancer dans la tokenisation des actifs agricoles au alentour de 2023!?!? [AGRA Presse](https://www.agra.fr/agra-presse/blockchain-et-agriculture-une-lente-hybridation)
 
 <div class="row">
