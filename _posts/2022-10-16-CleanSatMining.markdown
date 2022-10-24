@@ -2,6 +2,8 @@
 layout: post
 title:  "Clean Sat Mining"
 date:   2022-10-16
+description: "Qu'est ce que le projet Clean Sat Mining?"
+image: "/img/cleanSatMining.png"
 categories: Minage
 ---
 <img src="/img/cleanSatMiningLogo.svg" align="right" class="hide-on-small-only" style="height:150px; margin-right: 10px" />

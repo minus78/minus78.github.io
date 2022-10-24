@@ -1,6 +1,8 @@
 ---
 layout: post
 title:  "KryptoStone"
+description: "Qu'est ce que le projet KryptoStone?"
+image: "/img/logo_KryptoStone_400x400.png"
 date:   2022-10-16
 categories: Immobilier
 ---
