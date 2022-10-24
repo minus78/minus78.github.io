@@ -8,7 +8,7 @@ categories: Immobilier
 <img src="/img/RealT.png" align="right" class="hide-on-small-only" style="height:150px; margin-right: 10px" />
 
 ## Description
-**RealT** est un site qui propose de l'immobilier fractionné et tokenisé au US (et bientôt hors US). RealT a été créé par les frères Jacobson (Jean-Marc et Rémy) en 2019. Le but des 2 frères est de rendre l'immobillier liquide. Les biens sont tokenisés via une entreprise soit une LLC ou une INC. Les tokens émis pour chaque bien représente une action et les loyers sont des dividendes de cet entreprise. 
+[**RealT**](https://realt.co/ref/jujucryptofr/?campaign=tokenise) est un site qui propose de l'immobilier fractionné et tokenisé au US (et bientôt hors US). RealT a été créé par les frères Jacobson (Jean-Marc et Rémy) en 2019. Le but des 2 frères est de rendre l'immobillier liquide. Les biens sont tokenisés via une entreprise soit une LLC ou une INC. Les tokens émis pour chaque bien représente une action et les loyers sont des dividendes de cet entreprise. 
 
 <div class="row">
     <div class="col s12" style="text-align: center;">
