@@ -18,7 +18,7 @@ Dans ce projet, il y a des gens connu dans le milieu:
 - Sébastien Gouspillou qui travaille dans l'industrie du minage du Bitcoin, CEO de Big Block Datacenter et BBGS ([Twitter](https://twitter.com/SebGouspillou))
 - Richard Détente et Guillaume Goualard qui sont fondateur de Grand Angle Crypto, chaine Youtube d'analyse sur les cryptos ([Twitter](https://twitter.com/GA_Crypto_))
 
-Pour le moment, on a peut d'information sur le demarrage réelle du projet, et le prix des parts... sauf quelques messages glané sur Twitter:
+Pour le moment, on a peut d'information sur le demarrage réelle du projet, et le prix des parts... sauf quelques messages glanés sur Twitter:
 
 <div class="row">
     <div class="col m6 offset-m3 s12">
