@@ -62,6 +62,11 @@ figure.highlight
     width: 100%;
 }
 
+*
+{
+    margin-left: 10px;
+}
+
 .highlight .hll { background-color: #ffc; }
 .highlight .c { color: #888; font-weight: bold; } /* Comment */
 .highlight .err { color: #a00; background-color: #fff } /* Error */
