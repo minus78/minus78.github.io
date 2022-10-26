@@ -59,6 +59,7 @@ figure.highlight
     display: block;
     overflow: auto;
     margin: 0;
+    width: 100%;
 }
 
 .highlight .hll { background-color: #ffc; }
