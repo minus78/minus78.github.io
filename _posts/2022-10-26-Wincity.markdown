@@ -62,7 +62,7 @@ Les NFTs ne donnent pas de droits à leur détenteur sur les décisions de la ge
 
 - J'avais investie dans le 1<sup>er</sup> bien sur Paris (PARIS - 16 RUE DE LA GRANDE CHAUMIÈRE - LA TABLE DES COPAINS), dès le lancement. J'ai acheté un NFT *RARE*. Au début, lors de l'achat le *Win Cash* attendu était de 6% et 2,2% de *Win Capital* par an.
 
-Après la vente, on a appris qu'il y avait un soucis avec la banque, personnellement je pensais que c'était signé avec la banque au moment de la vente... et que donc maintenant, le *Win Cash* serait de 0,25% APY et le *Win Capital* de 7,96% environ:
+Après la vente, on a appris qu'il y avait un soucis avec la banque, personnellement je pensais que c'était signé avec la banque au moment de la vente... et que donc maintenant, le *Win Cash* serait de 0,25% APY et le *Win Capital* de 7,96% APY environ:
 
 <div class="row">
     <div class="col s12" style="text-align: center;">
