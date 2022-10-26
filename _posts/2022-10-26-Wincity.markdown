@@ -74,7 +74,6 @@ Comme ces utilisateurs, j'ai été mécontent de ce changement... Wincity, c'est
 - Wincity avait promis aussi de sortir le 2<sup>ème</sup> bien sur Polygon (moins de frais de transaction), finalement ce n'a pas été fait... Le 2<sup>ème</sup> bien devait aussi possiblement les loyers payés en stablecoin, ce qui n'était pas le cas, toujours en ETH.
 
 - Au début, on m'avait dit que les loyers seraient dans le NFT, en faites c'était pas vrai. Le NFT contient que des metadatas qui sont lu sur l'API de Wincity, par exemple:<br>
-Résultat de la page [https://www.wincity.com/api/metadata/WincityParisGrandeChaumiere/114](https://www.wincity.com/api/metadata/WincityParisGrandeChaumiere/114)
 
 {% highlight json %}
 {
