@@ -1,0 +1,192 @@
+---
+layout: post
+title:  "Qu'est ce que Wincity?"
+date:   2022-10-26
+description: "Descriptif de ce qu'est Wincity"
+image: "/img/wincity-black.png"
+categories: Immobilier
+---
+
+<img src="/img/wincity-black.png" align="right" class="hide-on-small-only" style="margin-right: 20px" />
+
+## Description
+
+[**Wincity**](https://www.wincity.com/) est une société française qui vend des **NFTs** (des **ERC1155**) basé sur de l'immobilier. Wincity est dirigé par Richard Winckels qui est aussi le fondateur et CEO de [Brik](https://brik.com) (**à ne pas confondre avec Bricks!**).
+
+Pour chaque bien, il y aura 1 111 NFTs de créé, de la même façon que [Sorare](https://sorare.com). Sur les 1 111 NFTs, il y a des NFTs *REGULAR*, *RARE*, *MYTHIC* et *UNIQUE*. Plus le NFT est rare, plus le NFT est chère, plus tu recevras une grand part du loyer par exemple.
+
+Pour chaque NFT, on a ses caractéristiques indiqués sur le site comme ça:
+
+<div class="row">
+    <div class="col s12" style="text-align: center;">
+            <img src="/img/Wincity_NFT.png" class="responsive-img" />
+    </div>
+</div>
+
+- Le *Win Cash* représente les loyers que vous recevrez (on les reçoit **une fois par mois** en **Ethereum** soit sur la Binance Smart Chain ou le réseau Ethereum)
+- Le *Win Capital* représente le remboursement d'emprunt à la banque (s'il y a un emprunt), cette somme est récupérée qu'à la vente du NFT
+- La *Win Plus-Value* représente la plus value ou la moins value lors d'une réévaluation (normalement 1 fois/ans)
+- *APR* c'est la somme en pourcentage du Win Cash et Win Capital
+
+Les NFTs peuvent être acheté soit en carte bancaire soit en Ethereum. Pour le moment, les NFTs ne sont disponible que sur Ethereum. Dans le futur, les nouveaux NFTs devraient être sur Polygon mais pas de date.
+
+Pour vendre ses NFTs, il faut actuellement les vendre sur [OpenSea](https://opensea.io/fr), il y aura les frais de OpenSea (**2,5%**), plus ceux de Wincity (**2%**).
+Dans le futur Wincity devrait ouvrir sa propre plateforme de revente de NFT (pas de date).
+Wincity a aussi un système de gamification avec une collection de carte *History* qui n'est pas lié à des biens physiques qu'on peut acheter.
+
+## Structure juridique
+
+Wincity a créé une foncière qui est propriétaire de l'ensemble des biens. C'est la foncière qui gère les biens (gestion, des assurances, des démarches légales, de la mise en location). Vous avez un contrat "*commercial*" avec Wincity/la foncière. **Vous n'êtes donc pas propriétaire des biens**:
+
+<div class="row">
+    <div class="col s12" style="text-align: center;">
+            <img src="/img/Wincity_Structure.png" class="responsive-img" />
+    </div>
+</div>
+
+Les NFTs ne donnent pas de droits à leur détenteur sur les décisions de la gestion et revente du bien:
+
+<div class="row">
+    <div class="col s12" style="text-align: center;">
+            <img src="/img/Wincity_droit.png" class="responsive-img" />
+    </div>
+</div>
+
+## futur de Wincity
+
+- Mettre en collatéral ses NFTs
+- Obtention du PSAN
+- Metaverse
+
+## Mon avis personnel
+
+- J'avais investie dans le 1<sup>er</sup> bien sur Paris (PARIS - 16 RUE DE LA GRANDE CHAUMIÈRE - LA TABLE DES COPAINS), dès le lancement. J'ai acheté un NFT RARE. Au début, lors de l'achat le *Win Cash* attendu était de 6% et 2,2% de *Win Capital* par an.
+
+Après la vente, on a appris qu'il y avait un soucis avec la banque, personnellement je pensais que c'était signé avec la banque au moment de la vente... et que donc maintenant, le *Win Cash* serait de 0,25% APY et le *Win Capital* de 7,96% environ:
+
+<div class="row">
+    <div class="col s12" style="text-align: center;">
+            <img src="/img/Wincity_changement_taux.png" class="responsive-img" />
+    </div>
+</div>
+
+Comme ces utilisateurs, j'ai été mécontent de ce changement... Wincity, c'est "planqué" derrière, on a juste dit 8,2% APY en tout (*Win Cash* + *Win Capital*), en balayant le changement de répartition... Ce qui est encore plus enervant, c'est qu'il noie le poisson!
+- Wincity avait promis aussi de sortir le 2<sup>ème</sup> bien sur Polygon (moins de frais de transaction), finalement ce n'a pas été fait... Le 2<sup>ème</sup> bien devait aussi possiblement les loyers payés en stablecoin, ce qui n'était pas le cas, toujours en ETH.
+
+- Au début, on m'avait dit que les loyers seraient dans le NFT, en faites c'était pas vrai. Le NFT contient que des metadatas qui sont lu sur l'API de Wincity, par exemple:<br>
+Résultat de la page [https://www.wincity.com/api/metadata/WincityParisGrandeChaumiere/114](https://www.wincity.com/api/metadata/WincityParisGrandeChaumiere/114)
+
+```json
+{
+  "type": "object",
+  "title": "La table des copains",
+  "description": "This card, with the most affordable price, is the most common.",
+  "image": "https://cdn.wincity.com/asset/WincityParisGrandeChaumiere/cards/114.png",
+  "name": "REGULAR #3",
+  "external_url": "https://www.wincity.com/fr-FR/assets/WincityParisGrandeChaumiere/cards/114",
+  "attributes": [
+    {
+      "trait_type": "Earned capital",
+      "value": 31.98,
+      "description": "Total of the win capital reward accumulated on the card.",
+      "display_type": "boost_number",
+      "max_value": 31.98
+    },
+    {
+      "trait_type": "Estimated capital gain",
+      "value": 0,
+      "description": "Total of the win capital gain reward accumulated on the card.",
+      "display_type": "boost_number",
+      "max_value": 0
+    },
+    {
+      "trait_type": "Available rewards (ETH)",
+      "value": 0.003709472,
+      "description": "Total of the win cash reward accumulated on the card, in ethereum.",
+      "display_type": "boost_number",
+      "max_value": 0.003709472
+    },
+    {
+      "trait_type": "Annual Win Capital",
+      "value": "64",
+      "description": "estimated annual capital",
+      "display_type": "number"
+    },
+    {
+      "trait_type": "Annual Win Capital Gain",
+      "value": "0",
+      "description": "estimated annual capital gain",
+      "display_type": "number"
+    },
+    {
+      "trait_type": "Annual Win Cash",
+      "value": "2",
+      "description": "estimated annual reward",
+      "display_type": "number"
+    },
+    {
+      "trait_type": "type",
+      "value": "REGULAR",
+      "description": "Identifier that give the type of the card: regular, rare, mythic, unique or history."
+    },
+    {
+      "trait_type": "tier",
+      "value": "TIER_3",
+      "description": "Identifier that give the type of the asset card tier: star, tier 1, tier 2 or tier 3."
+    },
+    {
+      "trait_type": "physical claimed",
+      "value": "YES",
+      "description": "If Physical card is already claimed or not"
+    }
+  ]
+}
+```
+
+Adresse des metadatas dans le contrat du NFT:
+<div class="row">
+    <div class="col s12" style="text-align: center;">
+            <img src="/img/etherscan_contract.png" class="responsive-img" />
+    </div>
+</div>
+
+
+Au début, les ETH des loyers étaient stockés sur un wallet dont Wincity avait la clé privé donc techniquement il y avait rien dans le NFT.
+
+- Le 2ème bien qui était sur Lille a été annulé à cause du droit de prééremption du locataire, extrait de l'e-mail reçu le 23 mai 2022:
+
+<blockquote>
+    Que se passe t-il pour le bien de Lille ?<br>
+    Nous ne pouvions pas l’anticiper mais c’est arrivé, le locataire de l’immeuble de Lille a appliqué son droit de préemption et a fait une offre. Nous ne pouvons pas contrer cette proposition puisqu’il a la priorité sur le bien. 
+    <br>
+    Nous avons récemment été au courant des intentions du locataire, nous attendions que cela se confirme pour vous en avertir. C’est pour cette raison que la communication du bien de Lille a été stoppée. 
+    <br>
+    Le locataire a 4 mois pour trouver un financement, potentiellement la vente peut donc ne pas aboutir. Nous ne pouvons pas nous permettre de booster les ventes et d'engendrer des frais supplémentaires dans l'espoir que le locataire se ravise. 
+</blockquote>
+<br>
+<blockquote>
+    Et vos fonds ? On vous laisse le choix<br>
+    Il était impensable pour nous de geler vos fonds pendant ces 4 mois, ce pourquoi nous vous proposons de voter très prochainement entre 2 possibilités :
+    <br>
+    1️⃣  Le remboursement intégral de vos cartes aux alentours de mi-juin.<br>
+    Dans la foulée, une proposition de bien au prix d'acquisition plus faible et avec un taux de rendement plus haut vous sera dévoilé. Une manière opportune de réinvestir ! 
+    <br>
+    2️⃣  Nous savons que certains d'entre vous ont investi dans ce bien par affection, ce pourquoi vous avez la possibilité de patienter jusqu'au 31 août pour que la proposition initiale aboutisse.<br>
+
+    Un système de vote vous sera soumis rapidement pour prendre une décision. Votre argent, votre choix. 
+    <br>
+    Les investisseurs ayant financés le bien en euros seront remboursés du même montant et ne perdront pas d'argent. <br>
+    Pour les investisseurs en ETH, vous pouvez être heureux d'apprendre que nous remboursons la valeur du bien adossé à votre NFT et non le montant d'ETH déboursé pour l'achat de votre carte. <br>
+    Vous n'êtes pas sans savoir que l'ETH a perdu 40% de sa valeur depuis le 2 avril, date de sortie du bien de Lille. <br>
+
+    Encore un des nombreux avantages d'utiliser de la cryptomonnaie pour investir dans l'immobilier ! 🙃
+</blockquote>
+
+Un vote a été réalisé sur le [Snapshot de Wincity](https://snapshot.org/#/wincity.eth/proposal/0x135cbbaf4c1e5ebd9e5ee015f41a5023f21ac2eb886794d269e972a5c0938533) (ce qui était une bonne idée) sauf que ceux qui avait acheté en carte bleu n'ont pas pu tous voter... si ils ont pas *mint* leur NFT avant la création de la proposition de vote...
+
+- Sur les derniers votes, seul ceux qui ont des NFTs de la collection *HISTORY* peuvent voter sur le Snapshot.
+- Certains messages de plainte au sujet de Wincity ont disparu du Discord, il y a eu selon moi, un nettoyage...
+
+J'ai vendu ma carte *RARE* de Paris en mai 2022, après les mésaventures du changement entre la répartition du Win Cash et Win Capital, puis un accrochage avec un modo de Wincity. Je reviendrai peut-être vers Wincity, si le projet me convient mieux. J'espère surtout un passage sur Polygon et loyer en stablecoin. La parti gamification de Wincity m'intéresse peu...
+
+Je suis dur avec Wincity mais c'est vraiment comment je l'ai vécu... mais ça ne m'a pas empêché d'investir dans [Brik Club](https://www.brik.com/invite/aSD3Pt) qui est dirigé par Richard Winckels, qui est pour moi, me semble plus pertinent actuellement que Wincity.
