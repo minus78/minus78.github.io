@@ -41,6 +41,7 @@ div .contenu strong
 div .contenu
 {
     font-size: 20px;
+    margin-left: 10px;
 }
 
 div .contenu blockquote
@@ -60,11 +61,6 @@ figure.highlight
     overflow: auto;
     margin: 0;
     width: 100%;
-}
-
-*
-{
-    margin-left: 10px;
 }
 
 .highlight .hll { background-color: #ffc; }
