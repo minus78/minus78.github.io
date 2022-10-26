@@ -11,7 +11,7 @@ categories: Immobilier
 
 ## Description
 
-[**Wincity**](https://www.wincity.com/) est une société française qui vend des **NFTs** (des **ERC1155**) basé sur de l'immobilier. Wincity est dirigé par Richard Winckels qui est aussi le fondateur et CEO de [Brik](https://brik.com) (**à ne pas confondre avec Bricks!**).
+[**Wincity**](https://www.wincity.com/) est une société française qui vend des **NFTs** (des **ERC1155**) basé sur de l'immobilier en France. Wincity est dirigé par Richard Winckels qui est aussi le fondateur et CEO de [Brik](https://brik.com) (**à ne pas confondre avec Bricks!**).
 
 Pour chaque bien, il y aura 1 111 NFTs de créé, de la même façon que [Sorare](https://sorare.com). Sur les 1 111 NFTs, il y a des NFTs *REGULAR*, *RARE*, *MYTHIC* et *UNIQUE*. Plus le NFT est rare, plus le NFT est chère, plus tu recevras une grand part du loyer par exemple.
 
