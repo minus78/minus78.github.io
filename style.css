@@ -51,6 +51,16 @@ div .contenu blockquote
     padding-right: 10px;
 }
 
+figure.highlight
+{
+    background-color: #fad4d6;
+    border-left: 5px solid #ee6e73;
+    padding-left: 10px;
+    display: block;
+    overflow: auto;
+    margin: 0;
+}
+
 .highlight .hll { background-color: #ffc; }
 .highlight .c { color: #888; font-weight: bold; } /* Comment */
 .highlight .err { color: #a00; background-color: #fff } /* Error */
