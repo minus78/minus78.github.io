@@ -76,7 +76,7 @@ Comme ces utilisateurs, j'ai été mécontent de ce changement... Wincity, c'est
 - Au début, on m'avait dit que les loyers seraient dans le NFT, en faites c'était pas vrai. Le NFT contient que des metadatas qui sont lu sur l'API de Wincity, par exemple:<br>
 Résultat de la page [https://www.wincity.com/api/metadata/WincityParisGrandeChaumiere/114](https://www.wincity.com/api/metadata/WincityParisGrandeChaumiere/114)
 
-{% highlight json %} 
+{% highlight json %}
     {
     "type": "object",
     "title": "La table des copains",

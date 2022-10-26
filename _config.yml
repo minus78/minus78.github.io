@@ -38,6 +38,7 @@ gist:
   noscript: false
 kramdown:
   math_engine: mathjax
+  input: GFM
   syntax_highlighter: rouge
 
 # Build settings
