@@ -3,7 +3,7 @@ layout: post
 title:  "Qu'est ce que Wincity?"
 date:   2022-10-26
 description: "Descriptif de ce qu'est Wincity"
-image: "/img/logo_wincity.png?v2"
+image: "/img/logo_wincity.png"
 categories: Immobilier
 ---
 
