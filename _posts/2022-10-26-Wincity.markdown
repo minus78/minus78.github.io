@@ -76,72 +76,72 @@ Comme ces utilisateurs, j'ai été mécontent de ce changement... Wincity, c'est
 - Au début, on m'avait dit que les loyers seraient dans le NFT, en faites c'était pas vrai. Le NFT contient que des metadatas qui sont lu sur l'API de Wincity, par exemple:<br>
 Résultat de la page [https://www.wincity.com/api/metadata/WincityParisGrandeChaumiere/114](https://www.wincity.com/api/metadata/WincityParisGrandeChaumiere/114)
 
-```json
-{
-  "type": "object",
-  "title": "La table des copains",
-  "description": "This card, with the most affordable price, is the most common.",
-  "image": "https://cdn.wincity.com/asset/WincityParisGrandeChaumiere/cards/114.png",
-  "name": "REGULAR #3",
-  "external_url": "https://www.wincity.com/fr-FR/assets/WincityParisGrandeChaumiere/cards/114",
-  "attributes": [
+{% highlight json %} 
     {
-      "trait_type": "Earned capital",
-      "value": 31.98,
-      "description": "Total of the win capital reward accumulated on the card.",
-      "display_type": "boost_number",
-      "max_value": 31.98
-    },
-    {
-      "trait_type": "Estimated capital gain",
-      "value": 0,
-      "description": "Total of the win capital gain reward accumulated on the card.",
-      "display_type": "boost_number",
-      "max_value": 0
-    },
-    {
-      "trait_type": "Available rewards (ETH)",
-      "value": 0.003709472,
-      "description": "Total of the win cash reward accumulated on the card, in ethereum.",
-      "display_type": "boost_number",
-      "max_value": 0.003709472
-    },
-    {
-      "trait_type": "Annual Win Capital",
-      "value": "64",
-      "description": "estimated annual capital",
-      "display_type": "number"
-    },
-    {
-      "trait_type": "Annual Win Capital Gain",
-      "value": "0",
-      "description": "estimated annual capital gain",
-      "display_type": "number"
-    },
-    {
-      "trait_type": "Annual Win Cash",
-      "value": "2",
-      "description": "estimated annual reward",
-      "display_type": "number"
-    },
-    {
-      "trait_type": "type",
-      "value": "REGULAR",
-      "description": "Identifier that give the type of the card: regular, rare, mythic, unique or history."
-    },
-    {
-      "trait_type": "tier",
-      "value": "TIER_3",
-      "description": "Identifier that give the type of the asset card tier: star, tier 1, tier 2 or tier 3."
-    },
-    {
-      "trait_type": "physical claimed",
-      "value": "YES",
-      "description": "If Physical card is already claimed or not"
+    "type": "object",
+    "title": "La table des copains",
+    "description": "This card, with the most affordable price, is the most common.",
+    "image": "https://cdn.wincity.com/asset/WincityParisGrandeChaumiere/cards/114.png",
+    "name": "REGULAR #3",
+    "external_url": "https://www.wincity.com/fr-FR/assets/WincityParisGrandeChaumiere/cards/114",
+    "attributes": [
+        {
+        "trait_type": "Earned capital",
+        "value": 31.98,
+        "description": "Total of the win capital reward accumulated on the card.",
+        "display_type": "boost_number",
+        "max_value": 31.98
+        },
+        {
+        "trait_type": "Estimated capital gain",
+        "value": 0,
+        "description": "Total of the win capital gain reward accumulated on the card.",
+        "display_type": "boost_number",
+        "max_value": 0
+        },
+        {
+        "trait_type": "Available rewards (ETH)",
+        "value": 0.003709472,
+        "description": "Total of the win cash reward accumulated on the card, in ethereum.",
+        "display_type": "boost_number",
+        "max_value": 0.003709472
+        },
+        {
+        "trait_type": "Annual Win Capital",
+        "value": "64",
+        "description": "estimated annual capital",
+        "display_type": "number"
+        },
+        {
+        "trait_type": "Annual Win Capital Gain",
+        "value": "0",
+        "description": "estimated annual capital gain",
+        "display_type": "number"
+        },
+        {
+        "trait_type": "Annual Win Cash",
+        "value": "2",
+        "description": "estimated annual reward",
+        "display_type": "number"
+        },
+        {
+        "trait_type": "type",
+        "value": "REGULAR",
+        "description": "Identifier that give the type of the card: regular, rare, mythic, unique or history."
+        },
+        {
+        "trait_type": "tier",
+        "value": "TIER_3",
+        "description": "Identifier that give the type of the asset card tier: star, tier 1, tier 2 or tier 3."
+        },
+        {
+        "trait_type": "physical claimed",
+        "value": "YES",
+        "description": "If Physical card is already claimed or not"
+        }
+    ]
     }
-  ]
-}
-```
+{% endhighlight %}
 
 Adresse des metadatas dans le contrat du NFT:
 <div class="row">
