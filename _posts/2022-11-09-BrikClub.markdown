@@ -42,6 +42,7 @@ flowchart LR
 
 - les biens sont cloisonnés dans une fonciére différente
 - Brik est déjà un acteur dans l'immobilier.
+- La partie Blockchain est "caché", pas besoin d'être expert blockchain pour utiliser BrikClub.
 
 ## Inconvénients
 
@@ -51,6 +52,8 @@ flowchart LR
             <img src="/img/BrikClub-Lille.png" class="responsive-img" />
     </div>
 </div>
+
+- Pour le moment pas de marché secondaire
 
 ## Liens
 
