@@ -2,6 +2,7 @@
 layout: post
 title:  "Qu'est ce que Wincity?"
 date:   2022-10-26
+last_modified_at: 2022-11-09
 description: "Descriptif de ce qu'est Wincity"
 image: "/img/logo_wincity_card.png"
 categories: Immobilier
@@ -38,11 +39,22 @@ Wincity a aussi un système de gamification avec une collection de carte *Histor
 
 Wincity a créé une foncière qui est propriétaire de l'ensemble des biens. C'est la foncière qui gère les biens (gestion, des assurances, des démarches légales, de la mise en location). Vous avez un contrat "*commercial*" avec Wincity/la foncière. **Vous n'êtes donc pas propriétaire des biens**:
 
+<!--
 <div class="row">
     <div class="col s12" style="text-align: center;">
             <img src="/img/Wincity_Structure.png" class="responsive-img" />
     </div>
 </div>
+-->
+```mermaid
+flowchart LR
+    A1[fa:fa-home Propriété 1]-->
+    B[Foncière Wincity] -- Contrat 1 -->
+    C[n*NFT Propriété 1]
+
+    A2[fa:fa-home Propriété 2] --> B
+    B -- Contrat 2 --> D[n*NFT Propriété 2]
+```
 
 Les NFTs ne donnent pas de droits à leur détenteur sur les décisions de la gestion et revente du bien:
 
