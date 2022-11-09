@@ -63,6 +63,13 @@ figure.highlight
     width: 100%;
 }
 
+div .contenu .language-mermaid
+{
+    display: flex;
+    width: 100%;
+    justify-content: center;
+}
+
 .highlight .hll { background-color: #ffc; }
 .highlight .c { color: #888; font-weight: bold; } /* Comment */
 .highlight .err { color: #a00; background-color: #fff } /* Error */

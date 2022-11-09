@@ -28,7 +28,8 @@
         <meta name="twitter:image" content="{% if page.description %}{{ site.url}}{{ page.image }}{% else %}{{ site.url}}/img/tokenise_fr.jpg{% endif %}" />
         <meta name="twitter:url" content="{{ site.url }}{{ page.url }}" />
 
-
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/mermaid/9.2.1/mermaid.min.js" integrity="sha512-yYw4jDyi7WsPQgsMPgJbNFrqhuNBGNWKhpGmgXMWF+wekMd+jbDcZmSpJyQ3LT0yZODmF1dg7Qg7yVK49/L+pQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+        <script src="https://code.jquery.com/jquery-3.6.1.min.js" integrity="sha256-o88AwQnZB+VDvE9tvIXrMQaPlFFSUTR+nldQm1LuPXQ=" crossorigin="anonymous"></script>
     </head>
     <body>
         <!-- navbar -->
@@ -55,5 +56,15 @@
                 </div>
               </div>
         </footer>
+
+        <script>
+            $(document).ready(function () {
+              mermaid.initialize({
+                startOnLoad:true,
+                theme: "default",
+              });
+              window.mermaid.init(undefined, document.querySelectorAll('.language-mermaid'));
+            });
+        </script>
     </body>
 </html>
