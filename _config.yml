@@ -48,6 +48,7 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-last-modified-at
+  - jekyll-mermaid
 
 # Exclude from processing.
 # The following items will not be processed, by default.
