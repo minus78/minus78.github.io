@@ -22,11 +22,11 @@ categories: Immobilier
 
 ```mermaid
 flowchart LR
-    A1[fa:fa-home Propriété 1]-->
+    A1[Propriété 1]-->
     B1[LLC ou INC] -- Action --- C1[n*RealT Tokens]
     B1 -- Dividende --- D1[fa:fa-dollar-sign Loyer]
 
-    A2[fa:fa-home Propriété 2]-->
+    A2[Propriété 2]-->
     B2[LLC ou INC] -- Action --- C2[n*RealT Tokens]
     B2 -- Dividende --- D2[fa:fa-dollar-sign Loyer]
 ```

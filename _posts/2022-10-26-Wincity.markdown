@@ -48,11 +48,11 @@ Wincity a créé une foncière qui est propriétaire de l'ensemble des biens. C'
 -->
 ```mermaid
 flowchart LR
-    A1[fa:fa-home Propriété 1]-->
+    A1[Propriété 1]-->
     B[Foncière Wincity] -- Contrat 1 -->
     C[n*NFT Propriété 1]
 
-    A2[fa:fa-home Propriété 2] --> B
+    A2[Propriété 2] --> B
     B -- Contrat 2 --> D[n*NFT Propriété 2]
 ```
 

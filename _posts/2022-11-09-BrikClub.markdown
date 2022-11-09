@@ -1,0 +1,58 @@
+---
+layout: post
+title:  "Qu'est ce que BrikClub?"
+date:   2022-11-09
+description: "Descriptif de ce qu'est BrikClub"
+image: "/img/logo-brik-club.png"
+categories: Immobilier
+---
+
+<img src="/img/logo-brik-club.png" align="right" class="hide-on-small-only" style="margin-left: 20px; height: 150px" />
+
+## Description
+
+[**BrikClub**](https://www.brik.com/invite/aSD3Pt) est une société française qui propose de l'immobilier tokénisé et fractionné sous forme de **NFTs** sur **Ethereum**. Ils vendront de l'immobilier français. BrikClub est dirigé par Richard Winckels qui est aussi le fondateur et CEO de [Brik](https://brik.com) (**à ne pas confondre avec Bricks!**).
+Le ticket d'entrée est d'environ **100€**. Le lien entre l'investisseur et le bien est un contract de RBF (Revenue-base financing). BrikClub fait partie de l'association [Fédération des plateformes de partage de revenus](https://www.f2pr.org/) qui regroupe plusieurs acteurs qui utilisent les contrats RBF.
+
+## Structure juridique
+
+Les biens sont tokenisés de la façon suivante:
+
+```mermaid
+flowchart LR
+    A1[Propriété 1]-->
+    B[Foncière 1] -- Contrat 1 -->
+    C[n*NFT Propriété 1]
+
+    A2[Propriété 2] --> D[Foncière 2] -- Contrat 2 --> 
+    E[n*NFT Propriété 2]
+```
+
+## Avantage
+
+- S'il n'y a pas de locataire, c'est BrikClub qui prend en charge les frais d'assurance, taxes,... donc pas de frais quand il y a de la vacance locative
+- Les loyers seront versé en euros
+- La fiscalité:
+
+<div class="row">
+    <div class="col s12" style="text-align: center;">
+            <img src="/img/BrikClub.png" class="responsive-img" />
+    </div>
+</div>
+
+- les biens sont cloisonnés dans une fonciére différente
+- Brik est déjà un acteur dans l'immobilier.
+
+## Inconvénients
+
+- On a peut de recul pour le moment (*novembre 2022*), juste un bien en cours de vente sur Lille pour le moment.
+<div class="row">
+    <div class="col s12" style="text-align: center;">
+            <img src="/img/BrikClub-Lille.png" class="responsive-img" />
+    </div>
+</div>
+
+## Liens
+
+- [Site web de BrikClub](https://www.brik.com/invite/aSD3Pt)
+- [Twitter de Brik](https://twitter.com/brikimmo1)
