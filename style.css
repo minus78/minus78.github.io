@@ -66,8 +66,13 @@ figure.highlight
 div .contenu .language-mermaid
 {
     display: flex;
-    width: 100%;
     justify-content: center;
+}
+
+div .contenu .language-mermaid svg
+{
+    max-width: 800px;
+    width: 100%;
 }
 
 .highlight .hll { background-color: #ffc; }
