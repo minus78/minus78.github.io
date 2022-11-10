@@ -21,10 +21,10 @@ Les biens sont tokenisés de la façon suivante:
 ```mermaid
 flowchart LR
     A1[Propriété 1]-->
-    B[Foncière 1] -- Contrat 1 -->
+    B[Foncière 1] <-- Contrat 1 -->
     C[n*NFT Propriété 1]
 
-    A2[Propriété 2] --> D[Foncière 2] -- Contrat 2 --> 
+    A2[Propriété 2] --> D[Foncière 2] <-- Contrat 2 --> 
     E[n*NFT Propriété 2]
 ```
 

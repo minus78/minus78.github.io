@@ -23,12 +23,12 @@ categories: Immobilier
 ```mermaid
 flowchart LR
     A1[Propriété 1]-->
-    B1[LLC ou INC] -- Action --- C1[n*RealT Tokens]
-    B1 -- Dividende --- D1[Loyer]
+    B1[LLC ou INC] <-- Action --> C1[n*RealT Tokens]
+    B1 -- Dividende --> D1[Loyer]
 
     A2[Propriété 2]-->
-    B2[LLC ou INC] -- Action --- C2[n*RealT Tokens]
-    B2 -- Dividende --- D2[Loyer]
+    B2[LLC ou INC] <-- Action --> C2[n*RealT Tokens]
+    B2 -- Dividende --> D2[Loyer]
 ```
 
 Les loyers sont payés chaque lundi en USDC. RealT est sur Ethereum ainsi que sur Gnosis Chain. Le ticket minimum est de **50$** environ pour des rendements d'environ 8 à 11% actuellement (**les rendements ne sont pas garanties**).

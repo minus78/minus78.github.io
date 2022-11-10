@@ -49,11 +49,11 @@ Wincity a créé une foncière qui est propriétaire de l'ensemble des biens. C'
 ```mermaid
 flowchart LR
     A1[Propriété 1]-->
-    B[Foncière Wincity] -- Contrat 1 -->
+    B[Foncière Wincity] <-- Contrat 1 -->
     C[n*NFT Propriété 1]
 
     A2[Propriété 2] --> B
-    B -- Contrat 2 --> D[n*NFT Propriété 2]
+    B <-- Contrat 2 --> D[n*NFT Propriété 2]
 ```
 
 Les NFTs ne donnent pas de droits à leur détenteur sur les décisions de la gestion et revente du bien:
