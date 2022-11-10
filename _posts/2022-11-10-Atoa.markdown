@@ -1,0 +1,45 @@
+---
+layout: post
+title:  "Qu'est ce que Atoa?"
+date:   2022-11-09
+description: "Descriptif de ce qu'est Atoa"
+image: "/img/Atoa.png"
+categories: Immobilier
+---
+
+<img src="/img/Atoa.png" align="right" class="hide-on-small-only" style="margin-left: 20px; height: 150px" />
+
+## Description
+
+[**Atoa**](https://www.atoa.io/) est une entreprise française qui veut faire de l'immobilier tokenisé et fractionné à partir de **50€**. Le token seront émis sur la blockchain **Polygon**.
+
+Le projet va créer un token **ATO** qui servira au transaction dans l'écosystème. Les loyers seront versés en token **ATO** avec 1 ATO = 1€. Le token ATO servira à acheter de nouveau token de bien, pourra être échanger contre des *vrai* euros sur votre compte en banque, envoyer sur d'autre wallet qui sont whitelistés.
+
+Atoa cible (au moins au début) les immeubles à vocation résidentielle ou avec des commerces en bas de l'immeuble en France Metropolitaine. Atoa sera seul propriétaire du bien, pour ne pas dépendre d'une autre entité, et pour pouvoir prendre sans dépendre d'autres parties des décisions.
+
+Les biens seront réévalués par des tiers. Ils sont en discussion avec l'AMF pour valider leur modèle. Atoa va se rémunérer à la hauteur de **10%** lors de la vente des biens et sur la gestion locative. ([FAQ](https://www.atoa.io/faq)):
+
+<div class="row">
+    <div class="col s12" style="text-align: center;">
+            <img src="/img/atoa-fees.png" class="responsive-img" />
+    </div>
+</div>
+
+Actuellement, il n'y a pas de bien qui ont été vendu (novembre 2022).
+
+## Structure juridique
+
+```mermaid
+flowchart LR
+    A[Atoa RE]
+    A1[Propriété 1] --> A
+    A2[Propriété 2] --> A
+    A <-- Contrat --> B[Client 1]
+    A <-- Contrat --> C[Client 2]
+```
+
+Atoa RE est une foncière. (RE pour *Real Estate*)
+
+## Liens
+
+- [Site Web](https://www.atoa.io/)
