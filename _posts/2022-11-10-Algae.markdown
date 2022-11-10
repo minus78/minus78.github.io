@@ -1,0 +1,51 @@
+---
+layout: post
+title:  "Qu'est ce que le projet Algae?"
+description: "Qu'est ce que le projet Algae?"
+image: "/img/algae-card.png"
+date:   2022-11-10
+categories: Immobilier
+---
+
+<img src="/img/algae-logo.png" align="right" class="hide-on-small-only" style="margin-left: 20px; width:150px;" />
+
+## Description
+
+[**Algae**](https://www.algae-app.com/) est une entreprise qui veut faire de l'immobilier tokenisé et fractionné dès **10€**. Cette entreprise est dirigé par **Adrien Hardy** dirigant de [**Blue Green Capital**](https://bluegreencapital.fr/), il édite aussi le site [Bleue Green Expedition](https://bluegreenexpedition.com/). Il est aussi Youtubeur: [chaine Youtube](https://www.youtube.com/channel/UCMYESFKM2wGMq4t5NzAeWZw) et il a écrit un livre: [Fnac](https://livre.fnac.com/a15486553/Adrien-Hardy-Financer-ses-reves-d-aventure-grace-a-l-immobilier).
+
+Pour le moment, il y a **PAS** de recul sur cette société. 
+Algae prendrais **5%** de frais sur l'achat, vente et gestion des biens. Algae semble utiliser **Polygon** comme blockchain.
+
+<div class="row">
+    <div class="col s12" style="text-align: center;">
+            <img src="/img/Algae-fees.png" class="responsive-img" />
+    </div>
+</div>
+
+Les loyers seraient reçu directement en euros. Pour le 1er biens, il est au Portugal avec un minimum d'investissement de 5000€ parce que l'application n'est pas encore prête. Les biens immobiliers que Algae pense vendre sont le coliving, hôtels, short-term rental, coworking, immobilier de service.
+
+<div class="row">
+    <div class="col s12" style="text-align: center;">
+            <img src="/img/Algae-Portugal.png" class="responsive-img" />
+    </div>
+</div>
+
+## Structure juridique du 1<sup>er</sup> bien
+
+```mermaid
+flowchart LR
+    A[Propriété 1]<-- Contrat -->B[Token]
+```
+
+Le lien entre l'investisseur et le bien serait un contract de type *RBF* (Revenue-base financing) pour le 1<sup>er</sup> bien vendu à Lisbonne.
+
+## Dans le futur
+
+- Algae serait en discussion avec l'AMF et les autorités des marchés financiers au Portugal (CMVM et Banco de Portugal) pour proposer un montage comme [RealT](https://tokenise.fr/immobilier/RealT.html)
+
+## Liens
+
+- [Site Web](https://www.algae-app.com/)
+- [Twitter](https://twitter.com/algae_app)
+
+
