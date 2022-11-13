@@ -29,3 +29,4 @@ flowchart LR
 ## Liens
 - [Site Web](https://blok.immo/)
 - [Twitter](https://twitter.com/blok_project)
+- [Discord](https://discord.com/invite/3CvceThPTf)
