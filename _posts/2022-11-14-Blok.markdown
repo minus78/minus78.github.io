@@ -1,0 +1,31 @@
+---
+layout: post
+title:  "Qu'est ce que Blok?"
+date:   2022-11-13
+description: "Descriptif de ce qu'est Blok"
+image: "/img/blok_immo_card.png"
+categories: Immobilier
+---
+
+<img src="/img/blok_immo_logo.png" align="right" class="hide-on-small-only" style="margin-right: 15px; width: 250px" />
+
+## Description
+
+[**Blok**](https://blok.immo/) est une entreprise française qui veut faire de l'immobilier tokenisé et fractionnée en vendant des biens français (au début). Blok a choisi comme blockchain **Elrond**/**MultiverX**. Blok travaille à devenir CIF (Conseiller en Investissement Financier) auprès de L'AMF. C'est Pierre Soulette et Pierre Maffre qui sont fondateurs de Blok. Waqass Maqbool est COO, il a de l'expérience dans l'immobilier ainsi que Pierre Soulette entre autre. Les biens seront réévalués une fois par an par des experts indépendants. Les loyers seraient versé une fois par semaine.
+
+Au jour du 14 novembre 2022, il y a aucun bien de vendu
+
+## Stucture juridique
+
+```mermaid
+flowchart LR
+    A[Propriété]-->
+    B[SPV 1 - Special Purpose Vehicle - Vehicule d'investissement] --> C[Obligation] <--> D[n*token Blok]
+    C -- intérêt --> E[Loyers]
+```
+
+**Attention, ce schéma corresponds à ma compréhension du montage juridique!**
+
+## Liens
+- [Site Web](https://blok.immo/)
+- [Twitter](https://twitter.com/blok_project)
