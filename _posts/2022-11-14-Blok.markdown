@@ -20,7 +20,7 @@ Au jour du 14 novembre 2022, il y a aucun bien de vendu
 ```mermaid
 flowchart LR
     A[Propriété]-->
-    B[SPV 1 - Special Purpose Vehicle - Vehicule d'investissement] --> C[Obligation] <--> D[n*token Blok]
+    B[SPV - Special Purpose Vehicle - Vehicule d'investissement] --> C[Obligation] <--> D[n*token Blok]
     C -- intérêt --> E[Loyers]
 ```
 
