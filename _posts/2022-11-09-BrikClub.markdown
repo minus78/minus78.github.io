@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Qu'est ce que BrikClub?"
-date:   2022-11-09
+date:   2022-11-13
 description: "Descriptif de ce qu'est BrikClub"
 image: "/img/logo-brik-club.png"
 categories: Immobilier
@@ -57,5 +57,6 @@ flowchart LR
 
 ## Liens
 
-- [Site web de BrikClub](https://www.brik.com/invite/aSD3Pt)
+- [Inscription sur BrikClub](https://www.brik.com/invite/aSD3Pt)
+- [Site Web de BrikClub](https://club.brik.com)
 - [Twitter de Brik](https://twitter.com/brikimmo1)
