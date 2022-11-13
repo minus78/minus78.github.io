@@ -31,3 +31,4 @@ flowchart LR
 - [Twitter](https://twitter.com/blok_project)
 - [Discord](https://discord.com/invite/3CvceThPTf)
 - [Telegram](https://t.me/Blok_Official)
+- [Youtube](https://www.youtube.com/channel/UC-0wgRd4DEd1syeA7uUKlTg)
