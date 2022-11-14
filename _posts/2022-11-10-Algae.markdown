@@ -4,6 +4,7 @@ title:  "Qu'est ce que le projet Algae?"
 description: "Qu'est ce que le projet Algae?"
 image: "/img/algae-card.png"
 date:   2022-11-10
+last_modified_at: 2022-11-14
 categories: Immobilier
 ---
 
@@ -14,7 +15,7 @@ categories: Immobilier
 [**Algae**](https://www.algae-app.com/) est une entreprise qui veut faire de l'immobilier tokenisé et fractionné dès **10€**. Cette entreprise est dirigé par **Adrien Hardy** dirigant de [**Blue Green Capital**](https://bluegreencapital.fr/), il édite aussi le site [Bleue Green Expedition](https://bluegreenexpedition.com/). Il est aussi Youtubeur: [chaine Youtube](https://www.youtube.com/channel/UCMYESFKM2wGMq4t5NzAeWZw) et il a écrit un livre: [Fnac](https://livre.fnac.com/a15486553/Adrien-Hardy-Financer-ses-reves-d-aventure-grace-a-l-immobilier).
 
 Pour le moment, il y a **PAS** de recul sur cette société. 
-Algae prendrais **5%** de frais sur l'achat, vente et gestion des biens. Algae semble utiliser **Polygon** comme blockchain.
+Algae prendrais **5%** de frais sur l'achat, vente et gestion des biens. Algae semble utiliser **Polygon** comme blockchain, et il utiliserait un [ERC-1400](https://thesecuritytokenstandard.org/) comme type de jeton.
 
 <div class="row">
     <div class="col s12" style="text-align: center;">
@@ -42,6 +43,7 @@ Le lien entre l'investisseur et le bien serait un contract de type *RBF* (Revenu
 ## Dans le futur
 
 - Algae serait en discussion avec l'AMF et les autorités des marchés financiers au Portugal (CMVM et Banco de Portugal) pour proposer un montage comme [RealT](https://tokenise.fr/immobilier/RealT.html)
+- Création d'un marché secondaire
 
 ## Liens
 
