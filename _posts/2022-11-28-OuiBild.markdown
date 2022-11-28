@@ -1,0 +1,51 @@
+---
+layout: post
+title:  "Qu'est ce que le projet Ouibild?"
+description: "Qu'est ce que le projet Ouibild?"
+image: "/img/OuiBild-Card.png"
+date:   2022-11-28
+categories: Immobilier
+---
+<img src="/img/OuiBild.png" align="right" class="hide-on-small-only" style="height:90px; margin-right: 10px; margin-left:10px;" />
+
+## Description
+
+**Ouibild** est une société qui veut tokeniser de l'immobilier. C'est une société française et il tokeniserait au début des biens en France sous forme de **NFT** (ERC-1155). Les parts de bien commencerait à 275€. Les loyers serait au début payé en Euro chaque mois, puis après il sera possible de choisir en crypto si l'AMF accepte (c'est en cours de discussion). Les NFTs seront achetables en fiat ou en crypto. Ouibild utilisera Polygon comme blockchain pour ses NFTs. Ils prendront 5% de "fees" (+ les frais fiscales)
+
+D'après certaines rumeurs, le 1er biens serait à Orleans...
+
+<div class="row">
+    <div class="col s12" style="text-align: center;">
+            <img src="/img/Ouibild-Part.png" class="responsive-img" />
+    </div>
+</div>
+
+## Structure juridique
+
+Ils ont une structure juridique proche de [RealT](https://tokenise.fr/immobilier/RealT.html), pour le montage juridique que RealT utilise au US. Normalement RealT n'utilisera pas le même en France à cause de la [fiscalité](/immobilier/OuiBild.html#fiscalité).
+
+```mermaid
+flowchart LR
+    A1[Propriété 1]-->
+    B1[Entreprise] <-- Action --> C1[n*NFTs]
+    B1 -- contrat de revenu futur --> D1[Loyer]
+
+    A2[Propriété 2]-->
+    B2[Entreprise] <-- Action --> C2[n*NFTs]
+    B2 -- contrat de revenu futur --> D2[Loyer]
+```
+
+<div class="row">
+    <div class="col s12" style="text-align: center;">
+            <img src="/img/OuiBild-stucture.png" class="responsive-img" />
+    </div>
+</div>
+
+## Fiscalité
+
+Des droits d’enregistrement liés à la cession officielle de l’action tokénisée sont de 5% du montant de l’action ou d’un minimum de 25€.
+
+## Liens utiles
+
+- [Site Web](https://ouibild.io/)
+- [Twitter](https://twitter.com/Ouibild)

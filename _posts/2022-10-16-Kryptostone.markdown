@@ -7,6 +7,7 @@ date:   2022-10-16
 categories: Immobilier
 ---
 <img src="/img/logo_KryptoStone_400x400.png" align="right" class="hide-on-small-only" style="height:150px; margin-right: 10px" />
+
 ## Description
 
 KryptoStone une startup de Metz prévoit de lancer dans le futur de l'immobilier fractionné et tokenisé sous forme de **NFT** avec des parts dès **50€**. Les NFT serait lancé sur la blockchain **Elrond**. Le CEO de KryptoStone se nomme Laurent Mayer.
