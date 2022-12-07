@@ -2,7 +2,7 @@
 layout: post
 title:  "Qu'est ce que RealT?"
 date:   2022-10-16
-last_modified_at: 2022-11-09
+last_modified_at: 2022-12-07
 description: "Descriptif de ce qu'est RealT"
 image: "/img/RealT.png"
 categories: Immobilier
@@ -50,6 +50,26 @@ Les biens sont réévalués 1 fois par ans. Lors de cette réévaluation les tok
 ## Les inconvénients
 - Pour le moment beaucoup de bien à Détroit mais peu ailleurs (problème de diversification)
 - Pas beaucoup de diversification dans le type de bien, pas de biens commerciaux par exemple, etc
+
+## Détokenisation
+
+Le 2 décembre 2022, RealT annonce qu'il a eu une offre d'achat pour le bien [**18983 Alcoy Ave, Detroit, MI 48205**](https://realt.co/product/18983-alcoy-ave-detroit-mi-48205/), et que les actionnaires vont devoir voter pour accepter l'offre ou non. Si l'offre est accepté le bien sera détokenisé et les tokens détruits et les tokens holder recevront des USDC de la vente
+
+<div class="row">
+    <div class="col s12" style="text-align: center;">
+            <img src="/img/Detokenise.png" class="responsive-img" />
+    </div>
+</div>
+
+Voici les résultats du vote à la fermeture le 6 décembre 2022:
+
+<div class="row">
+    <div class="col s12" style="text-align: center;">
+            <img src="/img/Vote_detokenise.png" class="responsive-img" />
+    </div>
+</div>
+
+[Plus de détail ici](../immobilier/RealT-premier-vote.html)
 
 ## RealT dans le futur
 - RealT essaye de ce lancer en **Europe** et au **Panama**. La tokenisation en Europe sera différentes qu'au US, on a pas plus de détail actuellement
