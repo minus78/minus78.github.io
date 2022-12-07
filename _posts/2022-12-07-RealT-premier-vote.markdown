@@ -28,6 +28,16 @@ Les tokens manquant sont des tokens qui sont dans les mains de RealT (des tokens
     </div>
 </div>
 
+## Répartition des votes par wallet sur la détokenisation de Alcoy
+
+Répartition des votes par wallet sans tenir compte du nombre de token détenu:
+
+<div class="row">
+    <div class="col s12" style="text-align: center;">
+            <img src="/img/PourcentageByWallet.png" class="responsive-img" />
+    </div>
+</div>
+
 ## Résultat brut
 
 | Adresse                                    | Hash                                                               | Choix    |  ETH  |   Gnosis   |  Levinswap  |  Weight  |
