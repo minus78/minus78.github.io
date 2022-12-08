@@ -19,6 +19,18 @@ categories: Immobilier
 Dans le cadre de la détokenisation de [**Alcoy**](https://realt.co/product/18983-alcoy-ave-detroit-mi-48205/), RealT a demandé un vote pour savoir si on doit accepté l'offre de l'acheteur ou non.
 Le vote a était effectué du 2 décembre 2022 au 6 décembre 2022 (site du vote: [**ici**](https://vote.realtoken.network/))
 
+## Résultat du vote
+Le graphique suivant représente le pourcentage de *OUI* et de *NON* si on considére que les votes exprimés (les votes *Blanc* et les wallets qui n'ont pas voté ne sont pas compté). Les votes sont pondérés en fonction du nombre de token Alcoy.
+
+Exemple: Si vous avez 6 tokens Alcoy, et que vous votez *OUI* cela compte pour 6 vote *OUI*
+
+<div class="row">
+    <div class="col s12" style="text-align: center;">
+            <img src="/img/ResultatOUI_NON.png" class="responsive-img" />
+    </div>
+</div>
+
+
 ## Répartition des tokens entre ETH et Gnosis sur Alcoy (au 7 décembre 2022)
 Les tokens manquant sont des tokens qui sont dans les mains de RealT (des tokens que des gens ont revendu à RealT). Il y a eu 1200 tokens d'émis.
 
