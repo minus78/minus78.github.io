@@ -2,6 +2,7 @@
 layout: post
 title:  "Premier vote des tokens holder de RealT et résultat"
 date:   2022-12-07
+last_modified_at: 2022-12-08
 description: "Premier vote des tokens holder de RealT"
 image: "/img/RealT.png"
 categories: Immobilier
@@ -30,6 +31,14 @@ Exemple: Si vous avez 6 tokens Alcoy, et que vous votez *OUI* cela compte pour 6
     </div>
 </div>
 
+En tenant compte des votes *Blanc*:
+
+<div class="row">
+    <div class="col s12" style="text-align: center;">
+            <img src="/img/Resultat_OUI_NON_Blanc.png" class="responsive-img" />
+    </div>
+</div>
+
 
 ## Répartition des tokens entre ETH et Gnosis sur Alcoy (au 7 décembre 2022)
 Les tokens manquant sont des tokens qui sont dans les mains de RealT (des tokens que des gens ont revendu à RealT). Il y a eu 1200 tokens d'émis.
@@ -47,6 +56,16 @@ Répartition des votes par wallet sans tenir compte du nombre de token détenu:
 <div class="row">
     <div class="col s12" style="text-align: center;">
             <img src="/img/PourcentageByWallet.png" class="responsive-img" />
+    </div>
+</div>
+
+## Répartition des votes en fonction du nombre de token
+
+Voici la répartition des votes en fonction du nombre de token par wallet:
+
+<div class="row">
+    <div class="col s12" style="text-align: center;">
+            <img src="/img/RealT_Vote_Wallet.png" class="responsive-img" />
     </div>
 </div>
 
