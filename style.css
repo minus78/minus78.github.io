@@ -1,8 +1,15 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
 body
 {
     min-height: 100vh;
     display: flex;
     flex-direction: column;
+    margin: 0;
 }
 
 header, footer
@@ -170,3 +177,204 @@ div .contenu .language-mermaid svg
 .css .o,
 .css .o + .nt,
 .css .nt + .nt { color: #999; }
+
+/* timeline */
+.timeline {
+    position: relative;
+    width: 100%;
+    max-width: 1140px;
+    margin: 0 auto;
+    padding: 15px 0;
+  }
+  
+  .timeline::after {
+    content: '';
+    position: absolute;
+    width: 2px;
+    background: #006E51;
+    top: 0;
+    bottom: 0;
+    left: 50%;
+    margin-left: -1px;
+  }
+  
+  .container-timeline {
+    padding: 15px 30px;
+    position: relative;
+    background: inherit;
+    width: 50%;
+  }
+  
+  .container-timeline.left-timeline {
+    left: 0;
+  }
+  
+  .container-timeline.right-timeline {
+    left: 50%;
+  }
+  
+  .container-timeline::after {
+    content: '';
+    position: absolute;
+    width: 16px;
+    height: 16px;
+    top: calc(50% - 8px);
+    right: -8px;
+    background: #006E51;
+    border: 2px solid #006E51;
+    border-radius: 16px;
+    z-index: 1;
+  }
+  
+  .container-timeline.right-timeline::after {
+    left: -8px;
+  }
+  
+  .container-timeline::before {
+    content: '';
+    position: absolute;
+    width: 50px;
+    height: 2px;
+    top: calc(50% - 1px);
+    right: 8px;
+    background: #006E51;
+    z-index: 1;
+  }
+  
+  .container-timeline.right-timeline::before {
+    left: 8px;
+  }
+  
+  .container-timeline .date {
+    position: absolute;
+    display: inline-block;
+    top: calc(50% - 11px);
+    text-align: center;
+    font-size: 14px;
+    font-weight: bold;
+    color: #006E51;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    z-index: 1;
+  }
+  
+  .container-timeline.left-timeline .date {
+    right: -102px;
+  }
+  
+  .container-timeline.right-timeline .date {
+    left: -100px;
+  }
+  
+  .container-timeline .icon {
+    position: absolute;
+    display: inline-block;
+    width: 40px;
+    height: 40px;
+    padding: 9px 0;
+    top: calc(50% - 20px);
+    background: #fad4d6;
+    border: 2px solid #006E51;
+    border-radius: 40px;
+    text-align: center;
+    font-size: 18px;
+    color: #006E51;
+    z-index: 1;
+  }
+  
+  .container-timeline.left-timeline .icon {
+    right: 56px;
+  }
+  
+  .container-timeline.right-timeline .icon {
+    left: 56px;
+  }
+  
+  .container-timeline .content-timeline {
+    padding: 30px 90px 30px 30px;
+    background: #fad4d6;
+    position: relative;
+  }
+  
+  .container-timeline.right-timeline .content-timeline {
+    padding: 30px 30px 30px 90px;
+    border-left: 5px solid #ee6e73;
+    border-bottom: 0px;
+    border-right: 0px;
+    border-top: 0px;
+  }
+
+  .container-timeline.left-timeline .content-timeline {
+    border-right: 5px solid #ee6e73;
+    border-bottom: 0px;
+    border-left: 0px;
+    border-top: 0px;
+  }
+  
+  .container-timeline .content-timeline h2 {
+    margin: 0 0 10px 0;
+    font-size: 18px;
+    font-weight: normal;
+    color: #2196F3;
+  }
+  
+  .container-timeline .content-timeline p {
+    margin: 0;
+    font-size: 16px;
+    line-height: 22px;
+    color: #000000;
+  }
+  
+  @media (max-width: 767.98px) {
+    .timeline::after {
+      left: 90px;
+    }
+  
+    .container-timeline {
+      width: 100%;
+      padding-left: 120px;
+      padding-right: 30px;
+    }
+
+    .container-timeline .date {
+        top: calc(50% - 10px);
+    }
+    
+    .container-timeline.right-timeline {
+      left: 0%;
+    }
+  
+    .container-timeline.left-timeline::after, 
+    .container-timeline.right-timeline::after {
+      left: 82px;
+    }
+  
+    .container-timeline.left-timeline::before,
+    .container-timeline.right-timeline::before {
+      left: 97px;
+      border-color: transparent #006E51 transparent transparent;
+    }
+  
+    .container-timeline.left-timeline .date,
+    .container-timeline.right-timeline .date {
+      right: auto;
+      left: -12px;
+    }
+  
+    .container-timeline.left-timeline .icon,
+    .container-timeline.right-timeline .icon {
+      right: auto;
+      left: 146px;
+    }
+  
+    .container-timeline.left-timeline .content-timeline,
+    .container-timeline.right-timeline .content-timeline {
+      padding: 30px 30px 30px 90px;
+      border-left: 5px solid #ee6e73;
+      border-bottom: 0px;
+      border-right: 0px;
+      border-top: 0px;
+    }
+  }
+  
+

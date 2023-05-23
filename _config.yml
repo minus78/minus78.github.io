@@ -26,7 +26,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://tokenise.fr" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: tokeniseFR
 github_username:  jekyll
-paginate: 5
+paginate: 7
 paginate_path: "/blog/page-:num/"
 lsi: false
 safe: true
