@@ -2,10 +2,13 @@
 layout: post
 title:  "Qu'est ce que BrikClub?"
 date:   2022-11-13
+last_modified_at: 2023-05-24
 description: "Descriptif de ce qu'est BrikClub"
 image: "/img/logo-brik-club.png"
 categories: Immobilier
 ---
+
+<span style="color:red;">**<i class="icon fa fa-triangle-exclamation"></i> 19 janv. 2023 - BrikClub est à l'arrêt pour le moment suite à l'AMF qui a tapé du poing sur la table avec le modèle de Royalties ([Message de l'AMF](https://www.amf-france.org/fr/actualites-publications/communiques/communiques-de-lamf/lamf-met-en-garde-le-public-contre-certaines-plateformes-proposant-dinvestir-dans-limmobilier-sous))! <i class="icon fa fa-triangle-exclamation"></i>**</span>
 
 <img src="/img/logo-brik-club.png" align="right" class="hide-on-small-only" style="margin-left: 20px; height: 150px" />
 
@@ -46,7 +49,7 @@ flowchart LR
 
 ## Inconvénients
 
-- On a peut de recul pour le moment (*novembre 2022*), juste un bien en cours de vente sur Lille pour le moment.
+- On a peut de recul pour le moment (*novembre 2022*), juste un bien vendu sur Lille pour le moment.
 <div class="row">
     <div class="col s12" style="text-align: center;">
             <img src="/img/BrikClub-Lille.png" class="responsive-img" />
@@ -54,6 +57,12 @@ flowchart LR
 </div>
 
 - Pour le moment pas de marché secondaire
+- **Le modèle de royalties c'est fait taper sur les doigts par l'[AMF](https://www.amf-france.org/fr/actualites-publications/communiques/communiques-de-lamf/lamf-met-en-garde-le-public-contre-certaines-plateformes-proposant-dinvestir-dans-limmobilier-sous) donc Brik Club cherche un nouveau modèle (au 24/05/2023)**
+<div class="row">
+    <div class="col s12" style="text-align: center;">
+            <img src="/img/Brik-club_AMF.png" class="responsive-img" />
+    </div>
+</div>
 
 ## Liens
 
