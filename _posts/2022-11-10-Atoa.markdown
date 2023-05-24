@@ -2,6 +2,7 @@
 layout: post
 title:  "Qu'est ce que Atoa?"
 date:   2022-11-09
+last_modified_at: 2023-05-24
 description: "Descriptif de ce qu'est Atoa"
 image: "/img/Atoa.png"
 categories: Immobilier
@@ -17,7 +18,7 @@ Le projet va créer un token **ATO** qui servira au transaction dans l'écosyst�
 
 Atoa cible (au moins au début) les immeubles à vocation résidentielle ou avec des commerces en bas de l'immeuble en France Metropolitaine. Atoa sera seul propriétaire du bien, pour ne pas dépendre d'une autre entité, et pour pouvoir prendre sans dépendre d'autres parties des décisions.
 
-Les biens seront réévalués par des tiers. Ils sont en discussion avec l'AMF pour valider leur modèle. Atoa va se rémunérer à la hauteur de **10%** lors de la vente des biens et sur la gestion locative. ([FAQ](https://www.atoa.io/faq)):
+Les biens seront réévalués par des tiers. Chaques biens seras mis dans une *fiducie sureté*. Atoa va se rémunérer à la hauteur de **10%** lors de la vente des biens et sur la gestion locative. ([FAQ](https://www.atoa.io/faq)):
 
 <div class="row">
     <div class="col s12" style="text-align: center;">
@@ -25,21 +26,34 @@ Les biens seront réévalués par des tiers. Ils sont en discussion avec l'AMF p
     </div>
 </div>
 
-Actuellement, il n'y a pas de bien qui ont été vendu (novembre 2022).
+### 1<sup>er</sup> bien sur Niort
+
+<div class="row">
+    <div class="col s12" style="text-align: center;">
+            <img src="/img/atoa_niort.png" class="responsive-img" /><br/>
+            <img src="/img/atoa-now.jpeg" style="max-height:482px;" class="responsive-img" />
+            <img src="/img/atoa-futur.jpeg" style="max-height:482px;" class="responsive-img" /><br/>
+            <img src="/img/atoa-investissement.jpeg" style="max-height:482px;" class="responsive-img" />
+            <img src="/img/atoa-projection.jpeg" style="max-height:482px;" class="responsive-img" />
+    </div>
+</div>
+
+Voici une vidéo Youtube qui présente le 1<sup>er</sup> bien: [Vidéo](https://www.youtube.com/embed/iiV6zTmiIo4)
 
 ## Structure juridique
 
 ```mermaid
 flowchart LR
-    A[Atoa RE]
+    A[Foncière 1 / Fiducie sureté]
+    BF[Foncière 2 / Fiducie sureté]
     A1[Propriété 1] --> A
-    A2[Propriété 2] --> A
-    A <-- Contrat --> B[Client 1]
-    A <-- Contrat --> C[Client 2]
+    A2[Propriété 2] --> BF
+    A <-- Contrat --> B[Client]
+    BF <-- Contrat --> C[Client]
 ```
-
-Atoa RE est une foncière. (RE pour *Real Estate*)
 
 ## Liens
 
 - [Site Web](https://www.atoa.io/)
+- [Twitter](https://twitter.com/AtoaToken)
+- [Youtube](https://www.youtube.com/@atoa6456)

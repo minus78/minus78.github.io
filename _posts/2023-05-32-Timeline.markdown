@@ -1,0 +1,36 @@
+---
+layout: post
+title:  "Test de la timeline"
+date:   2023-05-23
+last_modified_at: 2023-05-23
+description: "Test de la timeline"
+image: "/img/RealT.png"
+categories: Immobilier
+---
+
+<div class="timeline">
+  <div class="container-timeline left-timeline">
+    <div class="date">23/05/2023</div>
+    <i class="icon fa fa-home"></i>
+    <div class="content-timeline">
+      <h2>Lorem ipsum dolor sit amet</h2>
+      <p>
+        Lorem ipsum dolor sit amet elit. Aliquam odio dolor, id luctus erat sagittis non. Ut blandit semper pretium.
+      </p>
+    </div>
+  </div>
+  <div class="container-timeline right-timeline">
+    <div class="date">23/05/2023</div>
+    <i class="icon fa fa-pen"></i>
+    <div class="content-timeline">
+      <h2>Lorem ipsum dolor sit amet</h2>
+      <p>
+        Lorem ipsum dolor sit amet elit. Aliquam odio dolor, id luctus erat sagittis non. Ut blandit semper pretium.
+      </p>
+    </div>
+</div>
+
+
+
+
+
