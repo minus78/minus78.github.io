@@ -18,7 +18,7 @@ Le projet va créer un token **ATO** qui servira au transaction dans l'écosyst�
 
 Atoa cible (au moins au début) les immeubles à vocation résidentielle ou avec des commerces en bas de l'immeuble en France Metropolitaine. Atoa sera seul propriétaire du bien, pour ne pas dépendre d'une autre entité, et pour pouvoir prendre sans dépendre d'autres parties des décisions.
 
-Les biens seront réévalués par des tiers. Chaques biens seras mis dans une *fiducie sureté*. Atoa va se rémunérer à la hauteur de **10%** lors de la vente des biens et sur la gestion locative. ([FAQ](https://www.atoa.io/faq)):
+Les biens seront réévalués par des tiers. L'ensemble des biens est mis dans une *fiducie sureté* (1 bien, 1 fiducie). Atoa va se rémunérer à la hauteur de **10%** lors de la vente des biens et sur la gestion locative. ([FAQ](https://www.atoa.io/faq)):
 
 <div class="row">
     <div class="col s12" style="text-align: center;">
