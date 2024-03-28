@@ -4,6 +4,7 @@ title:  "Qu'est ce que le projet Ouibild?"
 description: "Qu'est ce que le projet Ouibild?"
 image: "/img/OuiBild-Card.png"
 date:   2022-11-28
+last_modified_at: 2024-03-28
 categories: Immobilier
 ---
 <img src="/img/OuiBild.png" align="right" class="hide-on-small-only" style="height:90px; margin-right: 10px; margin-left:10px;" />
@@ -12,13 +13,15 @@ categories: Immobilier
 
 **Ouibild** est une société qui veut tokeniser de l'immobilier. C'est une société française et il tokeniserait au début des biens en France sous forme de **NFT** (ERC-1155). Les parts de bien commencerait à 275€. Les loyers serait au début payé en Euro chaque mois, puis après il sera possible de choisir en crypto si l'AMF accepte (c'est en cours de discussion). Les NFTs seront achetables en fiat ou en crypto. Ouibild utilisera Polygon comme blockchain pour ses NFTs. Ils prendront 5% de "fees" (+ les frais fiscales)
 
-D'après certaines rumeurs, le 1er biens serait à Orleans...
+Le projet a tokenisé 0 bien à ma connaissance.
 
 <div class="row">
     <div class="col s12" style="text-align: center;">
             <img src="/img/Ouibild-Part.png" class="responsive-img" />
     </div>
 </div>
+
+<span style="color:red"><b>Il ne semble plus avoir de nouvelle de ce projet en mars 2024</b></span>
 
 ## Structure juridique
 
