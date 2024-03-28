@@ -8,6 +8,7 @@ image: "/img/blok_immo_card.png"
 categories: Immobilier
 ---
 
+<span style="color:red;"><b><i class="icon fa fa-triangle-exclamation"></i> Depuis le mois de mars 2024, le projet semble au point mort depuis l'échec de *GENESIS* <i class="icon fa fa-triangle-exclamation"></i></b></span>
 <img src="/img/blok_immo_logo.png" align="right" class="hide-on-small-only" style="margin-right: 15px; width: 250px" />
 
 ## Description
@@ -43,7 +44,6 @@ Bien que cette situation soit décevante, elle offre des leçons essentielles qu
 </blockquote>
 
 <br/>
-<span style="color:red;"><b>Depuis le mois de mars 2024, le projet semble au point mort depuis l'échec de *GENESIS*</b></span>
 
 ## Stucture juridique
 
