@@ -7,7 +7,7 @@ date:   2022-11-10
 last_modified_at: 2022-11-14
 categories: Immobilier
 ---
-
+<span style="color:red;"><b><i class="icon fa fa-triangle-exclamation"></i> Je ne suis plus ce projet... donc l'article contient surement des imprécisions  <i class="icon fa fa-triangle-exclamation"></i></b></span>
 <img src="/img/algae-logo.png" align="right" class="hide-on-small-only" style="margin-left: 20px; width:150px;" />
 
 ## Description
