@@ -182,7 +182,6 @@ div .contenu .language-mermaid svg
 .timeline {
     position: relative;
     width: 100%;
-    max-width: 1140px;
     margin: 0 auto;
     padding: 15px 0;
   }

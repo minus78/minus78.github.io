@@ -1,7 +1,8 @@
 ---
 layout: post
 title:  "Qu'est ce que Blok?"
-date:   2022-11-13
+date:   2022-11-14
+last_modified_at: 2024-03-28
 description: "Descriptif de ce qu'est Blok"
 image: "/img/blok_immo_card.png"
 categories: Immobilier
@@ -13,7 +14,36 @@ categories: Immobilier
 
 [**Blok**](https://blok.immo/) est une entreprise française qui veut faire de l'immobilier tokenisé et fractionnée en vendant des biens français (au début). Blok a choisi comme blockchain **Elrond**/**MultiverX**. Blok travaille à devenir CIF (Conseiller en Investissement Financier) auprès de L'AMF. C'est Pierre Soulette et Pierre Maffre qui sont fondateurs de Blok. Waqass Maqbool est COO, il a de l'expérience dans l'immobilier ainsi que Pierre Soulette entre autre. Les biens seront réévalués une fois par an par des experts indépendants. Les loyers seraient versé une fois par semaine.
 
-Au jour du 14 novembre 2022, il y a aucun bien de vendu
+Blok a essayé de vendre un 1<sup>er</sup> bien situé à Orléans (projet *GENESIS*). Le bien faisait 102m<sup>2</sup>, les parts étaient disponible dès 50€ avec un rendement attendu de 5,12%. 
+
+<div class="row">
+    <div class="col s12" style="text-align: center;">
+            <img src="/img/Blok1.png" class="responsive-img" style="max-height:300px;" />
+            <img src="/img/Blok2.png" class="responsive-img" style="max-height:300px;" />
+            <img src="/img/Blok3.png" class="responsive-img" style="max-height:300px;" />
+    </div>
+</div>
+
+La vente avait commencé le 19 juin 2023, et prolongé jusqu'au 15 septembre 2023, puis une seconde fois jusqu'au 31 octobre 2023.
+
+ Le 3 novembre 2023, les investisseurs du projet *GENESIS* sont remboursés suite à l'échec de la vente par la reception de l'e-mail suivant (extrait):
+<br/>
+<blockquote>
+Chers Blokers,
+<br/>
+C'est avec une grande humilité et une transparence totale que nous nous adressons à vous aujourd'hui. 
+Les mots sont difficiles à trouver quand on doit annoncer une nouvelle aussi décevante. Le projet Genesis Blok n'a pas réussi à lever les fonds nécessaires pour sa concrétisation.<br/> 
+Notre investisseur clé, un acteur majeur de l'immobilier, est également touché par les conditions difficiles du marché actuel et ne pourra pas s'engager avant mi-décembre. Il est toujours engagé dans le processus et compte bien nous rejoindre.<br/>
+Nous avons pesé et étudié de multiples options jusqu'au dernier moment et, dans le souci de ne pas prolonger votre incertitude, nous avons pris la décision difficile mais nécessaire de mettre fin à cette période de levée de fonds.<br/> 
+Nous allons rembourser intégralement tous nos investisseurs.
+<br/>
+Nous tenons à vous rassurer : bien que Genesis Blok n'ait pas abouti, nous avons déjà entamé le processus de planification pour de nouvelles opportunités d'investissement. Cette situation est un revers, mais en aucun cas une impasse pour notre aventure.
+<br/> 
+Bien que cette situation soit décevante, elle offre des leçons essentielles qui vont façonner notre futur. Il est clair que nous avons rencontré des obstacles, notamment en ce qui concerne l'expérience utilisateur pour les investisseurs de la sphère Web2 et la rentabilité des investissements. Ces obstacles ont été amplifiés par une sur-estimation de notre part de la participation de la communauté MultiversX. Nous avons entendu vos retours et nous nous engageons à apporter des améliorations substantielles, tant sur le plan technologique qu'opérationnel. Cela inclut un parcours utilisateur simplifié et une offre de produits plus diversifiée avec une rentabilité accrue. Nous sommes déterminés à tirer des enseignements de cet épisode pour revenir plus forts et plus focalisés que jamais.
+</blockquote>
+
+<br/>
+<span style="color:red;"><b>Depuis le mois de mars 2024, le projet semble au point mort depuis l'échec de *GENESIS*</b></span>
 
 ## Stucture juridique
 
