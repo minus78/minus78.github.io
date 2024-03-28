@@ -4,7 +4,7 @@ title:  "Qu'est ce que le projet Algae?"
 description: "Qu'est ce que le projet Algae?"
 image: "/img/algae-card.png"
 date:   2022-11-10
-last_modified_at: 2022-11-14
+last_modified_at: 2024-03-28
 categories: Immobilier
 ---
 <span style="color:red;"><b><i class="icon fa fa-triangle-exclamation"></i> Je ne suis plus ce projet... donc l'article contient surement des imprécisions  <i class="icon fa fa-triangle-exclamation"></i></b></span>
