@@ -43,7 +43,7 @@ Nous tenons à vous rassurer : bien que Genesis Blok n'ait pas abouti, nous avon
 Bien que cette situation soit décevante, elle offre des leçons essentielles qui vont façonner notre futur. Il est clair que nous avons rencontré des obstacles, notamment en ce qui concerne l'expérience utilisateur pour les investisseurs de la sphère Web2 et la rentabilité des investissements. Ces obstacles ont été amplifiés par une sur-estimation de notre part de la participation de la communauté MultiversX. Nous avons entendu vos retours et nous nous engageons à apporter des améliorations substantielles, tant sur le plan technologique qu'opérationnel. Cela inclut un parcours utilisateur simplifié et une offre de produits plus diversifiée avec une rentabilité accrue. Nous sommes déterminés à tirer des enseignements de cet épisode pour revenir plus forts et plus focalisés que jamais.
 </blockquote>
 
-Le 28 mars 2024, le développeur de la dApps qui a permis de lancer la 1<sup>er</sup> vente et qui permettait de stacker ses *BKT* (utility token qui a permis de financer Blok) annonce la mise hors ligne de la dApps:
+Le 28 mars 2024, le développeur de la dApps qui a permis de lancer la 1<sup>er</sup> vente et qui permettait de stacker ses *BKT* (utility token qui a permis de financer Blok - voir plus bas) annonce la mise hors ligne de la dApps:
 
 <div class="row">
     <div class="col s12" style="text-align: center;">
@@ -61,6 +61,17 @@ flowchart LR
 ```
 
 **Attention, ce schéma corresponds à ma compréhension du montage juridique!**
+
+## le token BKT de Blok
+
+Le token *BKT* est un utility token, contrairement au token *BLOK* qui sont des security tokens qui représente des obligations.
+Le *BKT* sert à financer le lancement de Blok et apporter certains avantages à la communauté des *Blokers* comme un accès à des biens privilégiés, prioritaire pour l'achat de futur token *BLOK*, etc
+
+<div class="row">
+    <div class="col s12" style="text-align: center;">
+            <img src="/img/Blok_BKT.jpg" class="responsive-img" style="max-height:400px;" />
+    </div>
+</div>
 
 ## Liens
 - [Site Web](https://blok.immo/)
