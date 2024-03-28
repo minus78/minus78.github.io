@@ -7,6 +7,9 @@ date:   2022-11-28
 last_modified_at: 2024-03-28
 categories: Immobilier
 ---
+
+<span style="color:red"><b><i class="icon fa fa-triangle-exclamation"></i> Il ne semble plus avoir de nouvelle de ce projet en mars 2024 <i class="icon fa fa-triangle-exclamation"></i></b></span>
+
 <img src="/img/OuiBild.png" align="right" class="hide-on-small-only" style="height:90px; margin-right: 10px; margin-left:10px;" />
 
 ## Description
@@ -20,8 +23,6 @@ Le projet a tokenisé 0 bien à ma connaissance.
             <img src="/img/Ouibild-Part.png" class="responsive-img" />
     </div>
 </div>
-
-<span style="color:red"><b>Il ne semble plus avoir de nouvelle de ce projet en mars 2024</b></span>
 
 ## Structure juridique
 
