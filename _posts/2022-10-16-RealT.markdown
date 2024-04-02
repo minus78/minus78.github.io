@@ -311,6 +311,16 @@ Les biens sont réévalués 1 fois par ans. Lors de cette réévaluation les tok
         </div>
     </div>
     <div class="container-timeline right-timeline">
+        <div class="date">févr 2024</div>
+        <i class="icon fa fa-location-dot"></i>
+        <div class="content-timeline">
+            <h2>RMM V2</h2>
+            <p>
+                Le 8 février 2024, RealT lance le <b>RMM V2</b> qui est basé sur AAVE V3.
+            </p>
+        </div>
+    </div>
+    <div class="container-timeline left-timeline">
         <div class="date">mars 2024</div>
         <i class="icon fa fa-location-dot"></i>
         <div class="content-timeline">
