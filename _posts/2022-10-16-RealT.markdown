@@ -146,7 +146,7 @@ Les biens sont réévalués 1 fois par ans. Lors de cette réévaluation les tok
         <i class="icon fa fa-link"></i>
         <div class="content-timeline">
             <h2>Changement de blockchain</h2>
-            <p>Au environ de février 20201, suite à l'augmentation importantes des frais de transaction sur Ethereum, RealT décide de payer les loyers sur la Gnosis Chain (anciennement xDAI Chain), ainsi que de recevoir ses RealT Tokens sur la Gnosis Chain pour ceux qui le souhaite</p>
+            <p>Au environ de février 2021, suite à l'augmentation importantes des frais de transaction sur Ethereum, RealT décide de payer les loyers sur la Gnosis Chain (anciennement xDAI Chain), ainsi que de recevoir ses RealT Tokens sur la Gnosis Chain pour ceux qui le souhaite</p>
         </div>
     </div>
     <div class="container-timeline left-timeline">
