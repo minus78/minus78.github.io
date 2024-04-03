@@ -319,6 +319,14 @@ Les biens sont réévalués 1 fois par ans. Lors de cette réévaluation les tok
             Les acheteurs du token sont actionnaires via une société Suisse monté pour l'occasion.
         </div>
     </div>
+    <div class="container-timeline right-timeline">
+        <div class="date">avr 2024</div>
+        <i class="icon fa fa-location-dot"></i>
+        <div class="content-timeline">
+            <h2>Ajout de moyen de paiement</h2>
+            RealT ajoute via Request Network, le paiement en aRMMWUSDC, aRMMWXDAI sur Gnosis Chain et sur Polygon, le MATIC, wETH, USDCe (USDC venant de Ethereum), l'USDC natif, l'USDT. Sur Ethereum, il est maintenant possible de payer en ETH, USDC et USDT.
+        </div>
+    </div>
 </div>
 
 ## Détokenisation
