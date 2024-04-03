@@ -39,7 +39,7 @@ Les biens sont réévalués 1 fois par ans. Lors de cette réévaluation les tok
 
 <div class="row">
     <div class="col s12" style="text-align: center;">
-            <img src="/img/rmm.png" class="responsive-img" style="max-height:600px;" />
+            <img src="/img/rmm.png" class="responsive-img" style="max-height:600px;" alt="RMM V2" />
     </div>
 </div>
 
@@ -65,8 +65,8 @@ Les biens sont réévalués 1 fois par ans. Lors de cette réévaluation les tok
                 Le site ouvre à cette date avec la vente de la propriété <b>9943 Marlowe St, Detroit, MI 48227</b><br/><br/>
                 <div class="row">
                     <div class="col s12" style="text-align: center;">
-                        <img src="/img/RealT-Live.png" class="responsive-img" style="max-height:300px;" />
-                        <img src="/img/RealT-Marlowe.png" class="responsive-img" style="max-height:300px;" />
+                        <img src="/img/RealT-Live.png" class="responsive-img" style="max-height:300px;" alt="Medium de David Hoffman en 2019" />
+                        <img src="/img/RealT-Marlowe.png" class="responsive-img" style="max-height:300px;" alt="Site web de RealT en 2019" />
                     </div>
                 </div>
         </div>
@@ -179,7 +179,7 @@ Les biens sont réévalués 1 fois par ans. Lors de cette réévaluation les tok
             Test de l'ACPI-1 (<b>Auto-Construction of Initial Price</b>) qui devait permettre de déterminer le prix de lancement du REG avec 4 ACPI - abandonnée par la suite pour des raisons de compliance<br/><br/>
                 <div class="row">
                     <div class="col s12" style="text-align: center;">
-                            <img src="/img/ACPI-1.jpeg" class="responsive-img" style="max-height:600px;" />
+                            <img src="/img/ACPI-1.jpeg" class="responsive-img" style="max-height:600px;" alt="ACPI-1 de RealT" />
                     </div>
                 </div>            
             </li>
@@ -195,7 +195,7 @@ Les biens sont réévalués 1 fois par ans. Lors de cette réévaluation les tok
             Le 14 avril 2022, RealT propose la possibilité de mettre en collatéral ses tokens de propriété afin de faire des emprunts en xDAI. Le protocol ce nomme RMM, il est basé sur AAVE V2<br/><br/>
             <div class="row">
                 <div class="col s12" style="text-align: center;">
-                        <img src="/img/rmm_V1.png" class="responsive-img" style="max-height:600px;" />
+                        <img src="/img/rmm_V1.png" class="responsive-img" style="max-height:600px;" alt="RMM V1" />
                 </div>
             </div>         
         </div>
@@ -256,7 +256,7 @@ Les biens sont réévalués 1 fois par ans. Lors de cette réévaluation les tok
                     <br/><br/>
                     <div class="row">
                         <div class="col s12" style="text-align: center;">
-                                <img src="/img/Roofstock.png" class="responsive-img" style="max-height:600px;" />
+                                <img src="/img/Roofstock.png" class="responsive-img" style="max-height:600px;" alt="1er maison de Roofstock, 80 Colder" />
                         </div>
                     </div>   
                 </li>
@@ -287,7 +287,22 @@ Les biens sont réévalués 1 fois par ans. Lors de cette réévaluation les tok
             RealT noue un partenariat avec Tediji pour la signature des contrats
         </div>
     </div>
-    <div class="container-timeline left-timeline">
+        <div class="container-timeline left-timeline">
+        <div class="date">janv 2024</div>
+        <i class="icon fa fa-fire"></i>
+        <div class="content-timeline">
+            <h2>Incendie</h2>
+            Il y a un incendie qui détruit complètement la propriété <b>581-587 Jefferson Ave, Rochester, NY 14611</b>, le 17 janvier 2024. Jefferson avant l'incendie:
+            <br/><br/>
+            <div class="row">
+                <div class="col s12" style="text-align: center;">
+                        <img src="/img/Jefferson.png" class="responsive-img" style="max-height:600px;" alt="Jefferson avant incendie" />
+                </div>
+            </div>
+            => <a href="https://www.youtube.com/watch?v=jI9mZaKsQAI">Plus d'information</a>
+        </div>
+    </div>
+    <div class="container-timeline right-timeline">
         <div class="date">févr 2024</div>
         <i class="icon fa fa-location-dot"></i>
         <div class="content-timeline">
@@ -295,12 +310,13 @@ Les biens sont réévalués 1 fois par ans. Lors de cette réévaluation les tok
             Le 8 février 2024, RealT lance le <b>RMM V2</b> qui est basé sur AAVE V3.
         </div>
     </div>
-    <div class="container-timeline right-timeline">
+    <div class="container-timeline left-timeline">
         <div class="date">mars 2024</div>
         <i class="icon fa fa-location-dot"></i>
         <div class="content-timeline">
             <h2>Equity</h2>
-            Le 21 mars 2024, RealT ouvre son capital
+            Le 21 mars 2024, RealT ouvre son capital. 5 000 000$ de token sont vendu qui correspondent à 6,42% de la société RealT Inc.
+            Les acheteurs du token sont actionnaires via une société Suisse monté pour l'occasion.
         </div>
     </div>
 </div>
@@ -327,7 +343,7 @@ Voici les résultats du vote à la fermeture le 6 décembre 2022:
 
 ## Mon avis
 
-RealT est un acteur sérieux, pionnier dans la tokénisation immobilier, et la tokenisation fractionné. J'ai investie dès 2019 chez eux, avec Marlowe, avec actuellement en 2022, avec plus de 200 biens différents sur Détroit surtout, mais aussi un peu à Toledo, Floride et Chicago. Il y a peu de vacances locatives.
+RealT est un acteur sérieux, pionnier dans la tokénisation immobilier, et la tokenisation fractionné. J'ai investie dès 2019 chez eux, avec Marlowe, avec actuellement en 2024, avec plus de 200 biens différents sur Détroit surtout, mais aussi un peu à Toledo, Floride et Chicago. Il y a peu de vacances locatives.
 
 Il y a eu un incident, un incendie dans la propriété Fullerton le 28 août 2020, qui a pas fait de victime, RealT a bien géré ça. Les tokens holder ont été prévenu, ils ont fait le necessaire pour les travaux et les assurances. Il y a eu une baisse de loyer (ce qui est normale), et ainsi qu'une baisse de la valeur des tokens au prorata des appartements invivables, le temps que les travaux soient fait, ensuite c'est revenu dans l'ordre.
 
