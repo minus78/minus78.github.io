@@ -292,7 +292,7 @@ Les biens sont réévalués 1 fois par ans. Lors de cette réévaluation les tok
         <i class="icon fa fa-fire"></i>
         <div class="content-timeline">
             <h2>Incendie</h2>
-            Il y a un incendie qui détruit complètement la propriété <b>581-587 Jefferson Ave, Rochester, NY 14611</b>, le 17 janvier 2024. Jefferson avant l'incendie:
+            Il y a un incendie qui détruit complètement la propriété <b>581-587 Jefferson Ave, Rochester, NY 14611</b>, sans faire de victime, le 17 janvier 2024. Jefferson avant l'incendie:
             <br/><br/>
             <div class="row">
                 <div class="col s12" style="text-align: center;">
