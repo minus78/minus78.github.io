@@ -315,8 +315,10 @@ Les biens sont réévalués 1 fois par ans. Lors de cette réévaluation les tok
         <i class="icon fa fa-location-dot"></i>
         <div class="content-timeline">
             <h2>Equity</h2>
-            Le 21 mars 2024, RealT ouvre son capital. 5 000 000$ de token sont vendu qui correspondent à 6,42% de la société RealT Inc.
-            Les acheteurs du token sont actionnaires via une société Suisse monté pour l'occasion.
+            Le 21 mars 2024, RealT ouvre son capital. 5 000 000$ de token sont vendu qui correspondent à 6,42% de la société RealT Inc.<br/>
+            Les acheteurs du token sont actionnaires via une société Suisse monté pour l'occasion.<br/>
+            <b>Vitesse approximatif de la vente: <a href="/img/RWA_vente.png" alt="image vente RWA">ici</a></b>
+            <br/><br/>
         </div>
     </div>
     <div class="container-timeline right-timeline">
