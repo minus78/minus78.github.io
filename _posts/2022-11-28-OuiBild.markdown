@@ -53,3 +53,9 @@ Des droits d’enregistrement liés à la cession officielle de l’action toké
 
 - [Site Web](https://ouibild.io/)
 - [Twitter](https://twitter.com/Ouibild)
+
+<div class="row">
+    <div class="col s12" style="text-align: center;">
+            <img src="/img/Ouibild_thumb.png" class="responsive-img" />
+    </div>
+</div>

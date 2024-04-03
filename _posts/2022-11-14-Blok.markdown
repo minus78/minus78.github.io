@@ -79,3 +79,9 @@ Le *BKT* sert à financer le lancement de Blok et apporter certains avantages à
 - [Discord](https://discord.com/invite/3CvceThPTf)
 - [Telegram](https://t.me/Blok_Official)
 - [Youtube](https://www.youtube.com/channel/UC-0wgRd4DEd1syeA7uUKlTg)
+
+<div class="row">
+    <div class="col s12" style="text-align: center;">
+            <img src="/img/Blok_thumb.png" class="responsive-img" />
+    </div>
+</div>
