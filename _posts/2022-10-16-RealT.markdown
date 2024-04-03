@@ -76,9 +76,7 @@ Les biens sont réévalués 1 fois par ans. Lors de cette réévaluation les tok
         <i class="icon fa fa-location-dot"></i>
         <div class="content-timeline">
             <h2>CEX, le 4 novembre 2019</h2>
-            <p>
                 RealT ajoute des tokens sur Uniswap afin de pouvoir acheter et vendre des tokens RealT via un CEX
-            </p>
         </div>
     </div>
     <div class="container-timeline right-timeline">
@@ -86,31 +84,26 @@ Les biens sont réévalués 1 fois par ans. Lors de cette réévaluation les tok
         <i class="icon fa fa-solid fa-dollar-sign"></i>
         <div class="content-timeline">
             <h2>1<sup>er</sup> vente au environ du 20 décembre 2019</h2>
-               <b>9943 Marlowe St, Detroit, MI 48227</b> a été complètement vendu à 107 personnes de 33 pays différents. Il a fallu environ 7 mois - 
-               <a href="https://medium.com/@TrustlessState/realts-first-property-tokenized-on-ethereum-is-sold-8ad69435df9f">Plus d'information ici</a>
+            <ul>
+                <li>
+                    <b>9943 Marlowe St, Detroit, MI 48227</b> a été complètement vendu à 107 personnes de 33 pays différents. Il a fallu environ 7 mois - 
+                    <a href="https://medium.com/@TrustlessState/realts-first-property-tokenized-on-ethereum-is-sold-8ad69435df9f">Plus d'information ici</a>
+               </li>
+               <li>
+                    Les réserves de maintenance des biens sont déposés sur <a href="https://compound.finance/">compound.finance</a> afin d'obtenir un rendement. (<b>ce n'est plus le cas aujourd'hui!</b>. Il y avait trop de frais pour faire les sorties et rentrées on-ramp/off-ramp).           
+               </li>
+            </ul>
         </div>
     </div>
     <div class="container-timeline left-timeline">
-        <div class="date">déc 2019</div>
-        <i class="icon fa fa-location-dot"></i>
-        <div class="content-timeline">
-            <h2>Réserve de maintenance sur un marché de prêt</h2>
-            <p>
-                Les réserves de maintenance des biens sont déposés sur <a href="https://compound.finance/">compound.finance</a> afin d'obtenir un rendement. (<b>ce n'est plus le cas aujourd'hui!</b>. Il y avait trop de frais pour faire les sorties et rentrées on-ramp/off-ramp).
-            </p>
-        </div>
-    </div>
-    <div class="container-timeline right-timeline">
         <div class="date">janv 2020</div>
         <i class="icon fa fa-dollar-sign"></i>
         <div class="content-timeline">
             <h2>2<sup>ème</sup> ventes de RealT</h2>
-            <p>
-                Le 29 janvier 2020, RealT vend sa 2<sup>ème</sup> maison en 4 mois (<b>5942 Audubon Rd, Detroit, MI 48224</b>)
-            </p>
+            Le 29 janvier 2020, RealT vend sa 2<sup>ème</sup> maison en 4 mois (<b>5942 Audubon Rd, Detroit, MI 48224</b>)
         </div>
     </div>
-    <div class="container-timeline left-timeline">
+    <div class="container-timeline right-timeline">
         <div class="date">mars 2020</div>
         <i class="icon fa fa-dollar-sign"></i>
         <div class="content-timeline">
@@ -121,7 +114,7 @@ Les biens sont réévalués 1 fois par ans. Lors de cette réévaluation les tok
             </ul>
         </div>
     </div>
-    <div class="container-timeline right-timeline">
+    <div class="container-timeline left-timeline">
         <div class="date">avril 2020</div>
         <i class="icon fa fa-ban"></i>
         <div class="content-timeline">
@@ -132,38 +125,30 @@ Les biens sont réévalués 1 fois par ans. Lors de cette réévaluation les tok
             </ul>
         </div>
     </div>
-    <div class="container-timeline left-timeline">
+    <div class="container-timeline right-timeline">
         <div class="date">août 2020</div>
         <i class="icon fa fa-fire"></i>
         <div class="content-timeline">
             <h2>Incendie</h2>
-            <p>Le 28 août 2020, RealT prévient qu'il y a eu un incendie sur l'immeuble Fullerton, sans faire de victime, sur plusieurs unités</p><br/>
-            <p>=> Pour plus d'information voir la section <a href="#mon-avis">Mon avis</a></p>
+            Le 28 août 2020, RealT prévient qu'il y a eu un incendie sur l'immeuble Fullerton, sans faire de victime, sur plusieurs unités<br/>
+            => Pour plus d'information voir la section <a href="#mon-avis">Mon avis</a>
         </div>
     </div>
-    <div class="container-timeline right-timeline">
+    <div class="container-timeline left-timeline">
         <div class="date">févr 2021</div>
         <i class="icon fa fa-link"></i>
         <div class="content-timeline">
             <h2>Changement de blockchain</h2>
-            <p>Au environ de février 2021, suite à l'augmentation importantes des frais de transaction sur Ethereum, RealT décide de payer les loyers sur la Gnosis Chain (anciennement xDAI Chain), ainsi que de recevoir ses RealT Tokens sur la Gnosis Chain pour ceux qui le souhaite</p>
+            Au environ de février 2021, suite à l'augmentation importantes des frais de transaction sur Ethereum, RealT décide de payer les loyers sur la Gnosis Chain (anciennement xDAI Chain), ainsi que de recevoir ses RealT Tokens sur la Gnosis Chain pour ceux qui le souhaite
         </div>
     </div>
-    <div class="container-timeline left-timeline">
+    <div class="container-timeline right-timeline">
         <div class="date">mars 2021</div>
         <i class="icon fa fa-home"></i>
         <div class="content-timeline">
             <h2>Maison de réinvestissement</h2>
-            <p>RealT mets en place la 1<sup>er</sup> maison de réinvestissement qui permet chaque lundi qu'au lieu de verser un loyer, il achète un RealT Token spécifique
-            <br/><br/><b> La 1<sup>er</sup> maison de ce type est 15350 Greydale St, Detroit, MI 48223</b></p>
-        </div>
-    </div>
-    <div class="container-timeline right-timeline">
-        <div class="date">août 2021</div>
-        <i class="icon fa fa-home"></i>
-        <div class="content-timeline">
-            <h2>Assurance</h2>
-            <p>RealT fait un partenariat avec <b>Opium Network</b> pour assurer les loyers. Pour des questions de compliance, juste 10700 Whittier Ave, Detroit, MI 48224 fut assuré pendant un certain avant que ce soit repoussé/abandonné</p>
+            RealT mets en place la 1<sup>er</sup> maison de réinvestissement qui permet chaque lundi qu'au lieu de verser un loyer, il achète un RealT Token spécifique
+            <br/><br/><b> La 1<sup>er</sup> maison de ce type est 15350 Greydale St, Detroit, MI 48223</b>
         </div>
     </div>
     <div class="container-timeline left-timeline">
@@ -171,13 +156,19 @@ Les biens sont réévalués 1 fois par ans. Lors de cette réévaluation les tok
         <i class="icon fa fa-home"></i>
         <div class="content-timeline">
             <h2>la 100<sup>e</sup></h2>
-            <p>
-                Le 2 juin 2021, RealT vend sa 100<sup>e</sup> maison qui est <b>4852 W Cortez St</b> et un NFT est créé pour cette occasion 
-                (<a href="https://rarible.com/token/0xd07dc4262bcdbf85190c01c996b4c06a461d2430:588743">Rarible</a>)
-            </p>
+            Le 2 juin 2021, RealT vend sa 100<sup>e</sup> maison qui est <b>4852 W Cortez St</b> et un NFT est créé pour cette occasion 
+            (<a href="https://rarible.com/token/0xd07dc4262bcdbf85190c01c996b4c06a461d2430:588743">Rarible</a>)
         </div>
     </div>
-        <div class="container-timeline right-timeline">
+    <div class="container-timeline right-timeline">
+        <div class="date">août 2021</div>
+        <i class="icon fa fa-home"></i>
+        <div class="content-timeline">
+            <h2>Assurance</h2>
+            RealT fait un partenariat avec <b>Opium Network</b> pour assurer les loyers. Pour des questions de compliance, juste 10700 Whittier Ave, Detroit, MI 48224 fut assuré pendant un certain avant que ce soit repoussé/abandonné
+        </div>
+    </div>
+        <div class="container-timeline left-timeline">
         <div class="date">déc 2021</div>
         <i class="icon fa fa-location-dot"></i>
         <div class="content-timeline">
@@ -196,43 +187,37 @@ Les biens sont réévalués 1 fois par ans. Lors de cette réévaluation les tok
             </ul>
         </div>
     </div>
-    <div class="container-timeline left-timeline">
+    <div class="container-timeline right-timeline">
         <div class="date">avril 2022</div>
         <i class="icon fa fa-location-dot"></i>
         <div class="content-timeline">
             <h2>Real estate Liquidity Protocol</h2>
-            <p>
-                Le 14 avril 2022, RealT propose la possibilité de mettre en collatéral ses tokens de propriété afin de faire des emprunts en xDAI. Le protocol ce nomme RMM, il est basé sur AAVE V2<br/><br/>
-                <div class="row">
-                    <div class="col s12" style="text-align: center;">
-                            <img src="/img/rmm_V1.png" class="responsive-img" style="max-height:600px;" />
-                    </div>
-                </div>         
-            </p>
+            Le 14 avril 2022, RealT propose la possibilité de mettre en collatéral ses tokens de propriété afin de faire des emprunts en xDAI. Le protocol ce nomme RMM, il est basé sur AAVE V2<br/><br/>
+            <div class="row">
+                <div class="col s12" style="text-align: center;">
+                        <img src="/img/rmm_V1.png" class="responsive-img" style="max-height:600px;" />
+                </div>
+            </div>         
         </div>
     </div>
-    <div class="container-timeline right-timeline">
+    <div class="container-timeline left-timeline">
         <div class="date">sept 2022</div>
         <i class="icon fa fa-location-dot"></i>
         <div class="content-timeline">
             <h2>Pas besoin de wallet</h2>
-            <p>
-                Au environ de septembre 2022, RealT lance le walletless, une technologie qui permet au gens qui ont du mal avec le web3 de ce passer de Metasmask/Rabby/clé privé,public tout en pouvant ce lancer, dans l'immobilier tokenisé.   
-            </p>
+            Au environ de septembre 2022, RealT lance le walletless, une technologie qui permet au gens qui ont du mal avec le web3 de ce passer de Metasmask/Rabby/clé privé,public tout en pouvant ce lancer, dans l'immobilier tokenisé.   
         </div>
     </div>
-    <div class="container-timeline left-timeline">
+    <div class="container-timeline right-timeline">
         <div class="date">déc 2022</div>
         <i class="icon fa fa-location-dot"></i>
         <div class="content-timeline">
             <h2>Détokenisation</h2>
-            <p>
-                RealT revend sa 1er maison dans le monde réel avec une détokenisation pour la propriété <b>18983 Alcoy Ave, Detroit, MI 48205</b>. Un vote est soumis au actionnaire de la société qui détient Alcoy. Le vote est effectué du 2 au 6 décembre 2022, puis la destruction du token est effective en janvier 2023
-                <br/><br/> => <a href="#détokenisation">Plus d'information</a> 
-            </p>
+            RealT revend sa 1er maison dans le monde réel avec une détokenisation pour la propriété <b>18983 Alcoy Ave, Detroit, MI 48205</b>. Un vote est soumis au actionnaire de la société qui détient Alcoy. Le vote est effectué du 2 au 6 décembre 2022, puis la destruction du token est effective en janvier 2023
+            <br/><br/> => <a href="#détokenisation">Plus d'information</a> 
         </div>
     </div>
-    <div class="container-timeline right-timeline">
+    <div class="container-timeline left-timeline">
         <div class="date">janv 2023</div>
         <i class="icon fa fa-location-dot"></i>
         <div class="content-timeline">
@@ -248,17 +233,15 @@ Les biens sont réévalués 1 fois par ans. Lors de cette réévaluation les tok
             </ul>
         </div>
     </div>
-    <div class="container-timeline left-timeline">
+    <div class="container-timeline right-timeline">
         <div class="date">févr 2023</div>
         <i class="icon fa fa-location-dot"></i>
         <div class="content-timeline">
             <h2>AAVE DAO</h2>
-            <p>
-                Demande de deploiement sur le forum de gouvernance en "whitelabel" de AAVE V3 pour la version 2 du RMM (ARFC): <a href="https://governance.aave.com/t/arfc-proposal-for-deploying-whitelabel-aave-v3-market-for-realt-tokens-on-gnosischain/11897">Forum AAVE Gouvernance</a> et dépot du vote le 15 février 2023 sur le Snapshot de AAVE.
-            </p>
+            Demande de deploiement sur le forum de gouvernance en "whitelabel" de AAVE V3 pour la version 2 du RMM (ARFC): <a href="https://governance.aave.com/t/arfc-proposal-for-deploying-whitelabel-aave-v3-market-for-realt-tokens-on-gnosischain/11897">Forum AAVE Gouvernance</a> et dépot du vote le 15 février 2023 sur le Snapshot de AAVE.
         </div>
     </div>
-    <div class="container-timeline right-timeline">
+    <div class="container-timeline left-timeline">
         <div class="date">mars 2023</div>
         <i class="icon fa fa-location-dot"></i>
         <div class="content-timeline">
@@ -280,54 +263,44 @@ Les biens sont réévalués 1 fois par ans. Lors de cette réévaluation les tok
             </ul>
         </div>
     </div>
-    <div class="container-timeline left-timeline">
+    <div class="container-timeline right-timeline">
         <div class="date">juin 2023</div>
         <i class="icon fa fa-house"></i>
         <div class="content-timeline">
             <h2>Le Panama</h2>
-            <p>
-                RealT vend sa première maison hors des Etats-Unis. Le 1<sup>er</sup> pays choisi est le Panama parce qu'il a comme devise le dollar US, et qu'il a du potentiel selon les frères Jacobson. Le 1<sup>er</sup> bien est une villa de vacances nommées <b>Villa Marina 514, Playa Venao, Los Santos, Panama</b>
-            </p>
+            RealT vend sa première maison hors des Etats-Unis. Le 1<sup>er</sup> pays choisi est le Panama parce qu'il a comme devise le dollar US, et qu'il a du potentiel selon les frères Jacobson. Le 1<sup>er</sup> bien est une villa de vacances nommées <b>Villa Marina 514, Playa Venao, Los Santos, Panama</b>
         </div>
     </div>
-    <div class="container-timeline right-timeline">
+    <div class="container-timeline left-timeline">
         <div class="date">juil 2023</div>
         <i class="icon fa fa-house"></i>
         <div class="content-timeline">
             <h2>Nouveau partenariat pour l'Europe</h2>
-            <p>
-                RealT annonce des partenariats avec Wiseed et Twenty First Capital, le 6 juillet 2023 afin d'avoir les licences necessaire pour son lancement futur en Europe
-            </p>
+            RealT annonce des partenariats avec Wiseed et Twenty First Capital, le 6 juillet 2023 afin d'avoir les licences necessaire pour son lancement futur en Europe
         </div>
     </div>
-    <div class="container-timeline left-timeline">
+    <div class="container-timeline right-timeline">
         <div class="date">déc 2023</div>
         <i class="icon fa fa-file-contract"></i>
         <div class="content-timeline">
             <h2>fin d'utilisation de Hello Sign (Dropbox)</h2>
-            <p>
-                RealT noue un partenariat avec Tediji pour la signature des contrats
-            </p>
+            RealT noue un partenariat avec Tediji pour la signature des contrats
         </div>
     </div>
-    <div class="container-timeline right-timeline">
+    <div class="container-timeline left-timeline">
         <div class="date">févr 2024</div>
         <i class="icon fa fa-location-dot"></i>
         <div class="content-timeline">
             <h2>RMM V2</h2>
-            <p>
-                Le 8 février 2024, RealT lance le <b>RMM V2</b> qui est basé sur AAVE V3.
-            </p>
+            Le 8 février 2024, RealT lance le <b>RMM V2</b> qui est basé sur AAVE V3.
         </div>
     </div>
-    <div class="container-timeline left-timeline">
+    <div class="container-timeline right-timeline">
         <div class="date">mars 2024</div>
         <i class="icon fa fa-location-dot"></i>
         <div class="content-timeline">
             <h2>Equity</h2>
-            <p>
-                Le 21 mars 2024, RealT ouvre son capital
-            </p>
+            Le 21 mars 2024, RealT ouvre son capital
         </div>
     </div>
 </div>
