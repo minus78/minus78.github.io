@@ -147,7 +147,7 @@ Les biens sont réévalués 1 fois par ans. Lors de cette réévaluation les tok
         <i class="icon fa fa-home"></i>
         <div class="content-timeline">
             <h2>Maison de réinvestissement</h2>
-            RealT mets en place la 1<sup>er</sup> maison de réinvestissement qui permet chaque lundi qu'au lieu de verser un loyer, il achète un RealT Token spécifique
+            RealT mets en place la 1<sup>er</sup> maison de réinvestissement qui permet chaque lundi qu'au lieu de verser un loyer, on achète un RealT Token spécifique
             <br/><br/><b> La 1<sup>er</sup> maison de ce type est 15350 Greydale St, Detroit, MI 48223</b>
         </div>
     </div>
