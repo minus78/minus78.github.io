@@ -3,7 +3,7 @@ layout: post
 title:  "Qu'est ce que BrikClub?"
 date:   2022-11-13
 last_modified_at: 2024-09-11
-description: "Descriptif de ce qu'est BrikClub"
+description: "Descriptif de ce qu'est BrikClub détenu par la société Brik.com et sa fiabilité"
 image: "/img/logo-brik-club.png"
 categories: Immobilier
 ---
@@ -75,4 +75,4 @@ flowchart LR
 
 - [Inscription sur BrikClub](https://www.brik.com/invite/aSD3Pt)
 - [Site Web de BrikClub](https://club.brik.com)
-- [Twitter de Brik](https://twitter.com/brikimmo1)
+- [Twitter/X de Brik](https://x.com/brik_immo)
