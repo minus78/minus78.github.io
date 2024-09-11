@@ -10,10 +10,12 @@ categories: Immobilier
 
 <span style="color:red;">**<i class="icon fa fa-triangle-exclamation"></i> 19 janv. 2023 - BrikClub est à l'arrêt pour le moment suite à l'AMF qui a tapé du poing sur la table avec le modèle de Royalties ([Message de l'AMF](https://www.amf-france.org/fr/actualites-publications/communiques/communiques-de-lamf/lamf-met-en-garde-le-public-contre-certaines-plateformes-proposant-dinvestir-dans-limmobilier-sous))! <i class="icon fa fa-triangle-exclamation"></i>**</span>
 <br/>
+<span style="color:red;">
 **Septembre 2024:**<br/>
     - Attention la société **Brik.com** ne réponds plus vraiment au e-mail venant des gens de BrikClub! Richard Winckels a fermé le Telegram du projet BrikClub sans ménagement! Les commentaires sur [Trust Pilot](https://fr.trustpilot.com/review/brik.com) semble mauvais en ce moment
     <br/>
     - **Brik** n'a jamais fourni attestation de redevance qu'il devait founir annuellement, ce n'est pas serieux!
+</span>
 
 <img src="/img/logo-brik-club.png" align="right" class="hide-on-small-only" style="margin-left: 20px; height: 150px" />
 
