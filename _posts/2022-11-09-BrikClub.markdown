@@ -71,8 +71,20 @@ flowchart LR
     </div>
 </div>
 
+## Fermeture du Telegram de BrikClub par Richard Winckels
+Le Telegram du projet BrikClub a été fermé sans ménagement... après ce dernier message, plus possible de poster des messages sauf pour les administrateurs/modérateurs:
+
+<div class="row">
+    <div class="col s12" style="text-align: center;">
+            <img src="/img/BrikClub_telegram.png" class="responsive-img" />
+    </div>
+</div>
+
+
+Depuis plus de nouvelle, sur le changement en obligation ou autre...
+
 ## Liens
 
 - [Inscription sur BrikClub](https://www.brik.com/invite/aSD3Pt)
 - [Site Web de BrikClub](https://club.brik.com)
-- [Twitter/X de Brik](https://x.com/brik_immo)
+- [Twitter/X de Brik](https://x.com/brik_immo) - ancien compte Twitter/X: @brikimmo1
