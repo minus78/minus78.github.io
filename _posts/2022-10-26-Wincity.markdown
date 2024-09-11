@@ -8,7 +8,7 @@ image: "/img/logo_wincity_card.png"
 categories: Immobilier
 ---
 
-<span style="color:red;">**<i class="icon fa fa-triangle-exclamation"></i>Au 11 septembre 2024 - Wincity a des problèmes avec les régulateurs que ce soit pour la partie *gamification/jeux* ou la partie immobilière, le projet est au point mort. En sachant que pour le partie tokenisation immobilière la société Brik.com a jeté l'éponge (c'est Brik qui a lancé Wincity)<i class="icon fa fa-triangle-exclamation"></i>**</span>
+<span style="color:red;">**<i class="icon fa fa-triangle-exclamation"></i> Au 11 septembre 2024 - Wincity a des problèmes avec les régulateurs que ce soit pour la partie *gamification/jeux* ou la partie immobilière, le projet est au point mort. En sachant que pour le partie tokenisation immobilière la société Brik.com a jeté l'éponge (c'est Brik qui a lancé Wincity) <i class="icon fa fa-triangle-exclamation"></i>**</span>
 
 <img src="/img/wincity-black.png" align="right" class="hide-on-small-only" style="margin-right: 20px" />
 
