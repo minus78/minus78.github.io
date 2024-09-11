@@ -72,7 +72,7 @@ flowchart LR
 </div>
 
 ## Fermeture du Telegram de BrikClub par Richard Winckels
-Le Telegram du projet BrikClub a été fermé sans ménagement... après ce dernier message, plus possible de poster des messages sauf pour les administrateurs/modérateurs:
+Le Telegram du projet BrikClub a été fermé sans ménagement le 31 mai 2024... après ce dernier message, plus possible de poster des messages sauf pour les administrateurs/modérateurs:
 
 <div class="row">
     <div class="col s12" style="text-align: center;">
@@ -81,7 +81,7 @@ Le Telegram du projet BrikClub a été fermé sans ménagement... après ce dern
 </div>
 
 
-Depuis plus de nouvelle, sur le changement en obligation ou autre...
+Depuis plus de nouvelle, sur le changement en obligation ou autre... on nous a promis un partenaire début 2024 (possiblement Baltis) mais plus de nouvelle... un virement automatique sur notre compte mais plus de nouvelle...
 
 ## Liens
 
