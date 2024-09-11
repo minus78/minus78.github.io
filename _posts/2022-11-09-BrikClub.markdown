@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Qu'est ce que BrikClub?"
+title:  "Qu'est ce que BrikClub? Et la fiabilité de la société mère Brik.com"
 date:   2022-11-13
 last_modified_at: 2024-09-11
 description: "Descriptif de ce qu'est BrikClub détenu par la société Brik.com et sa fiabilité"
