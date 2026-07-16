@@ -427,11 +427,12 @@ Pour conclure, je suis très satisfait de mon investissement dans RealT, ça per
 
 ## Lien utile
 - [Site web de RealT](https://realt.co/ref/jujucryptofr/?campaign=tokenise)
-- [Wiki RealT](https://wiki.realt.co/v/francais/)
+- [Wiki RealT](https://community-realt.gitbook.io/tuto-community)
 - [RMM](https://rmm.realtoken.network/)
-- [Dashboard Communautaire](https://dashboard.realt.community/)
+- [Dashboard Communautaire](https://dashboard.realtoken.community/)
 - [Chaine Youtube de RealT](https://www.youtube.com/channel/UCIUnPBs55STUL16VDQOHBWg)
 - [Archive des CCs / Community Calls](https://odysee.com/@RealToken:d)
+- [Action collective avec l'avocat Delomel](https://delomel-avocat.com/rejoindre-une-action/action-collective-real-t/)
 
 <div class="row">
     <div class="col s12" style="text-align: center;">
