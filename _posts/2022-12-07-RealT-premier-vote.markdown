@@ -2,11 +2,20 @@
 layout: post
 title:  "Premier vote des tokens holder de RealT et résultat"
 date:   2022-12-07
-last_modified_at: 2022-12-08
+last_modified_at: 2026-07-16
 description: "Premier vote des tokens holder de RealT"
 image: "/img/RealT.png"
 categories: Immobilier
 ---
+
+<span style="color:red">
+    <b>
+        <i class="icon fa fa-triangle-exclamation"></i>
+            Attention RealT est en procès contre la ville de Détroit, il y a une action collective en cours contre RealT ici: <a href="https://delomel-avocat.com/rejoindre-une-action/action-collective-real-t/">https://delomel-avocat.com/rejoindre-une-action/action-collective-real-t/</a>. Je déconseille d'investir dans RealT!
+    </b>
+</span>
+
+<br/><br/>
 
 <div class="row">
     <div class="col s12" style="text-align: center;">
